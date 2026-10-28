@@ -46,7 +46,7 @@ if event is not None:
     years = st.multiselect("Years considered in the model", YEARS, default=YEARS)
 if years is not None:
     states = st.multiselect("States considered in the model", STATES, default= STATES)
-if query_time is None:
+if states is not None:
     query_time = st.text_input("Time (10.31 or 1:57.29)")
 
 data = pd.DataFrame()
