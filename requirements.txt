@@ -1,0 +1,19 @@
+# Direct dependencies of the scripts in stages/ and src/.
+# Lower bounds are the versions the original (Windows) venv ran on.
+# Install into the project venv:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+# analysis (stages 02-04)
+numpy>=2.5
+pandas>=3.0
+scipy>=1.18
+matplotlib>=3.11
+scikit-learn>=1.9
+
+# scraping (stage 01)
+seleniumbase>=4.51
+beautifulsoup4>=4.15
+lxml>=6.1
+
+# web app (stage 05)
+streamlit>=1.66
+plotly>=7.1

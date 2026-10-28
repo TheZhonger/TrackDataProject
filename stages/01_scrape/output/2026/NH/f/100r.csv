@@ -1,0 +1,658 @@
+name,time,team,grade,state,date
+Alaina Beck,12.24,Bedford,9,NH,May 16
+Leiana Cory,12.30,Portsmouth,10,NH,May 16
+Charlotte Beaudoin,12.42,Timberlane Regional,12,NH,May 12
+Ava Lacasse,12.46,Belmont,12,NH,Apr 25
+Lilah Fitzpatrick,12.63,Coe-Brown Northwood Academy,10,NH,Apr 09
+Nora Brayall,12.65,Pinkerton Academy,12,NH,May 23
+Emmanuella Folorunso,12.66,Phillips Exeter Academy,11,NH,May 23
+Macy Sawyer,12.67,Gilford,11,NH,May 23
+Grace Dow,12.74,Hollis-Brookline,12,NH,May 20
+Courtney Russell,12.76,Pinkerton Academy,11,NH,Jun 06
+Josephine Swisher,12.76,Merrimack,10,NH,Jun 06
+Camrin Ayi,12.77,Nashua South,11,NH,Jun 06
+Abigail Stienecker,12.80,Pinkerton Academy,11,NH,May 04
+Ayana Okuneye,12.92,Phillips Exeter Academy,12,NH,Apr 18
+Angela Cenesca,12.94,Manchester Central,12,NH,May 18
+Riley Hawkes,12.99,Coe-Brown Northwood Academy,11,NH,May 16
+Autum Blackman,13.00,Newfound Regional,9,NH,May 05
+Isabella Johnson,13.03,Timberlane Regional,12,NH,May 20
+Kali Borrelli,13.05,Salem,9,NH,May 23
+Harper Huddy,13.05,Goffstown Area,9,NH,May 16
+Aisling Madden,13.06,Hopkinton,12,NH,May 16
+Maddy Chambers,13.07,Stevens,11,NH,Jun 06
+Ella Carter,13.07,Portsmouth,12,NH,May 16
+Allison Frye,13.08,Nashua North,12,NH,May 30
+Josie White,13.08,Hanover,11,NH,May 12
+Aaliya Chaudhry,13.10,Campbell,11,NH,May 05
+Juliet Faria,13.12,Kearsarge Regional,12,NH,May 12
+Jada Lucas,13.14,Merrimack Valley,12,NH,Apr 09
+Scarlet Tien,13.14,St Paul's,11,NH,Apr 15
+Sadie Thomas,13.16,Bedford,11,NH,May 23
+Jazzlyn Curry,13.18,Coe-Brown Northwood Academy,11,NH,May 05
+Serenah Wright,13.19,Merrimack,11,NH,May 23
+Eva Boutwell,13.20,Londonderry,9,NH,May 23
+Skyla Houle,13.20,Campbell,12,NH,May 05
+Gabriella Cubero,13.21,Kennett,12,NH,May 23
+Lexie Rogers,13.27,Exeter,11,NH,May 22
+Ella O'Keefe,13.27,Bedford,12,NH,Apr 11
+Faith Norton,13.30,Stevens,11,NH,May 08
+Ava George,13.31,Pinkerton Academy,11,NH,May 04
+Elizabeth Carty,13.32,Oyster River,11,NH,Apr 11
+Riley Raynes,13.32,Kearsarge Regional,11,NH,May 12
+Julia Johnson,13.34,Timberlane Regional,11,NH,May 12
+Charlie Kim,13.34,Phillips Exeter Academy,10,NH,May 23
+Javiera Eliessetch,13.35,Kearsarge Regional,10,NH,May 23
+Sadie Sykes,13.35,Sunapee,12,NH,May 11
+Kathleen Lynch,13.35,Dover,10,NH,May 09
+Malia Sanchez,13.36,Keene,9,NH,Apr 28
+Lea Rodriguez,13.39,Manchester Memorial,9,NH,May 12
+Natalee Thomas,13.39,Nashua South,10,NH,May 18
+Jenna Burkett,13.40,Kearsarge Regional,11,NH,May 12
+Peyton Vaughn,13.41,Bow,10,NH,May 20
+Kylie Stachecki,13.41,Plymouth Regional,9,NH,May 23
+Allie Dandeneau,13.42,Nashua North,12,NH,Apr 18
+Gabriella Milley,13.42,Pelham,9,NH,May 16
+Jocelyn Santosuosso,13.42,Bishop Guertin,10,NH,May 19
+Madelyn Reardon,13.44,Hollis-Brookline,9,NH,May 20
+Kelechi(Kelly) Ugbala,13.44,Phillips Exeter Academy,10,NH,May 09
+Elizabeth Gustavson,13.45,Pinkerton Academy,9,NH,May 19
+Tayja Berry,13.45,Bedford,9,NH,May 16
+Lillian Barud,13.45,Londonderry,11,NH,Apr 28
+Sarah Frye,13.45,Nashua North,12,NH,Apr 25
+Cayla Gonzalez,13.46,Portsmouth,11,NH,May 16
+Diamond Perry,13.47,Nashua South,12,NH,Apr 21
+Cleo Kwayisi,13.47,Merrimack Valley,9,NH,May 30
+Summer Mansfield,13.47,Phillips Exeter Academy,11,NH,May 23
+Pearl Marvel,13.47,Gilford,10,NH,May 19
+Jennifer Watson,13.48,Plymouth Regional,12,NH,May 16
+Natalie Brantley,13.49,Profile,12,NH,May 23
+Violet Perry,13.49,Keene,12,NH,Apr 28
+Lila Nield,13.49,Oyster River,11,NH,May 16
+Emma Roeder,13.49,Exeter,10,NH,Apr 21
+Rachel Osanya,13.50,Pinkerton Academy,10,NH,May 19
+Jewel Seymour,13.51,Phillips Exeter Academy,10,NH,May 23
+Hazel Surrette,13.51,Exeter,10,NH,May 12
+Avery Kelly,13.52,Pembroke Academy,11,NH,Apr 11
+Banipreet Kaur,13.52,Lebanon,11,NH,May 19
+Kaliana Dow,13.53,Sanborn Regional,11,NH,May 16
+Rebecca Osanya,13.54,Pinkerton Academy,10,NH,May 04
+Lizzy Bristol,13.54,Sanborn Regional,9,NH,May 16
+Mia Sarmiento,13.54,Manchester Central,10,NH,May 12
+Camden Wilson,13.55,Bow,11,NH,May 16
+Yarelis Galvan,13.59,Manchester Central,10,NH,May 18
+Alexandria Myers,13.59,Winnisquam Regional,10,NH,May 23
+Claire Ahern,13.59,Exeter,12,NH,Apr 11
+Isabelle Ernst,13.60,Exeter,11,NH,May 22
+Chylee Musumarra,13.60,Laconia,9,NH,May 19
+Ava Fisher,13.61,Souhegan,11,NH,May 05
+Sylvie Wamberg,13.62,Portsmouth Christian,8,NH,May 18
+Olivia Lorenz,13.62,White Mountains,11,NH,May 23
+Lilly Biron,13.62,Exeter,9,NH,May 12
+Caroline Bastos de Andrade,13.63,Nashua South,11,NH,May 12
+Jaylin Galeaz,13.64,Londonderry,12,NH,May 19
+Bristol Shirland,13.66,Coe-Brown Northwood Academy,11,NH,May 18
+Alana Willey,13.68,Plymouth Regional,9,NH,May 30
+Nayalise Diaz,13.68,Manchester West,11,NH,May 18
+Danielle Fitzgerald,13.68,Timberlane Regional,9,NH,May 20
+Caterina Hutt,13.69,Portsmouth Christian,12,NH,May 18
+Abbe Sarpong,13.70,Phillips Exeter Academy,10,NH,May 23
+Finley Mason,13.70,Exeter,9,NH,Apr 18
+Avery Baumgardt,13.70,Oyster River,12,NH,Apr 11
+Soleil St. Denis,13.71,Souhegan,9,NH,May 13
+Addison Waters,13.72,Epping,11,NH,Apr 13
+Autumn Bureau,13.72,Bow,10,NH,Apr 23
+Katrina Neveu,13.72,Nashua North,9,NH,May 12
+Gwen Barrieau,13.74,Bow,11,NH,Apr 14
+Adrienne Thibault,13.75,Hollis-Brookline,11,NH,May 20
+Adara Glidden,13.77,Newfound Regional,11,NH,May 19
+Livia Ward,13.78,Hollis-Brookline,10,NH,Apr 21
+Elizabeth Joy,13.78,Coe-Brown Northwood Academy,10,NH,May 05
+Reese Wanamaker,13.78,Alvirne,9,NH,May 19
+Felleh Conteh,13.79,Concord,9,NH,Apr 21
+Taryn Hebel,13.80,Exeter,9,NH,Apr 11
+Bridget Quinlan,13.80,Londonderry,9,NH,May 19
+Charlotte Larochelle,13.81,Bow,12,NH,Apr 23
+Tilly Arico,13.81,Portsmouth Christian,9,NH,Apr 10
+Evelyn Avery,13.81,Portsmouth,10,NH,May 02
+Denessa Williams,13.82,Winnisquam Regional,12,NH,May 23
+Eila Lahaye,13.82,Hanover,9,NH,May 19
+Jetzabel Chavarin,13.83,Nashua South,10,NH,May 18
+Stella Thomas,13.84,Bedford,9,NH,Apr 21
+Sophia Crooks,13.84,Merrimack,9,NH,May 12
+Avery Aliberti,13.84,Salem,12,NH,May 18
+Maddy McCarthy,13.85,Bishop Guertin,10,NH,May 16
+Hayeon Song,13.85,Hanover,11,NH,May 07
+Leticia Tyler,13.85,Manchester West,10,NH,May 20
+Nyalise Laboy,13.85,Manchester Central,9,NH,May 18
+Evelyn Kearney,13.86,Oyster River,11,NH,May 22
+Spack Sydney,13.86,Merrimack Valley,12,NH,Apr 09
+Noelle Pelletier,13.86,Dover,11,NH,Apr 21
+Harmony Campbell,13.87,Dover,12,NH,Apr 11
+Mele Palma,13.87,Sanborn Regional,9,NH,May 16
+Lily Sabol,13.87,Phillips Exeter Academy,11,NH,Apr 18
+Katie Coleman,13.89,Pinkerton Academy,11,NH,Apr 21
+Julia Morrison,13.89,Londonderry,11,NH,Apr 21
+Libby Foxx,13.89,Bedford,11,NH,May 19
+Kaiden Robb,13.90,Winnisquam Regional,12,NH,Apr 26
+Mansa Awuah,13.91,Phillips Exeter Academy,12,NH,May 02
+Jada Jones,13.92,Milford,9,NH,May 21
+Katie Lorenz,13.92,John Stark Regional,12,NH,Apr 11
+Tulla Flanagan,13.93,Bow,9,NH,May 16
+Tessa Kouchoukos,13.93,Coe-Brown Northwood Academy,11,NH,May 16
+Simone Ali,13.93,Goffstown Area,12,NH,May 16
+Joy Bekkering,13.93,Bedford,11,NH,May 19
+Alexis Perez,13.94,Nashua South,9,NH,May 18
+Saige Griffin,13.94,Kingswood Reg Senior,11,NH,Apr 11
+Sara Boudreau,13.94,Spaulding,12,NH,May 12
+Lou Swenson,13.94,Hanover,10,NH,May 12
+Annika Krauchunas,13.95,Belmont,11,NH,May 23
+Lilah Yeater,13.95,Bedford,10,NH,Apr 21
+Sira Lemus Cuixart,13.96,Newmarket,10,NH,May 16
+Emmy Garcia,13.96,Trinity,9,NH,Apr 26
+Shannon Fay,13.97,Kennett,11,NH,May 23
+Lianna Agri,13.97,Londonderry,11,NH,May 19
+Novie Moll,13.97,Dover,9,NH,Apr 11
+Ania Silva,13.98,Pelham,9,NH,May 12
+Samantha Disco,13.98,Hollis-Brookline,11,NH,May 20
+Lyla Ayi,13.98,Nashua South,9,NH,May 12
+Anna Sophia Wakeham,13.98,Profile,12,NH,May 23
+Lavinia Barbosa,13.99,Sanborn Regional,12,NH,May 11
+Kate Smith,14.00,John Stark Regional,12,NH,May 11
+Oluwanifemi Omoniyi,14.00,St Paul's,10,NH,Apr 15
+Cassidy Rand,14.00,Newfound Regional,9,NH,May 05
+Linette Pomales,14.01,Londonderry,11,NH,May 19
+Alexia Mbuyi,14.01,Londonderry,10,NH,Apr 07
+Maya Harwood,14.02,Oyster River,10,NH,May 12
+Juju Oquendo,14.02,Trinity,9,NH,May 20
+Beverly Dolo,14.03,Phillips Exeter Academy,11,NH,Apr 11
+Marielle Kothari,14.03,St Paul's,10,NH,Apr 15
+Ellison Gregory,14.04,Hopkinton,9,NH,Apr 21
+Lauren Anderson,14.04,Windham,11,NH,Apr 25
+Emily Mullen,14.04,Sunapee,12,NH,May 11
+Olivia Hyde,14.05,Milford,9,NH,May 13
+Iris Lamoreaux,14.05,St Paul's,11,NH,Apr 18
+Zendaya Beamer,14.06,Souhegan,11,NH,May 13
+Pearl Nelson,14.07,Nashua South,12,NH,Apr 21
+Sophia Rodriguez,14.08,Pelham,10,NH,May 16
+Linda Kozma-vig,14.08,Phillips Exeter Academy,11,NH,May 02
+Arianna Rodriguez,14.08,Merrimack,11,NH,May 19
+Arabella Nunez,14.08,Plymouth Regional,9,NH,May 23
+Autumn Rosario,14.08,Bishop Brady,9,NH,Apr 23
+Sophie Bogh,14.08,Phillips Exeter Academy,11,NH,Apr 11
+Jessica Doherty,14.08,Londonderry,10,NH,May 19
+Harlie Card,14.09,Milford,9,NH,May 21
+Ella Lessieur,14.09,Manchester Memorial,9,NH,May 12
+Leila Lessage,14.10,Milford,10,NH,May 21
+Trinity Donkor,14.10,Phillips Exeter Academy,10,NH,May 23
+Gizele Ducharme,14.10,Nashua North,9,NH,May 12
+Ailish Sunsin,14.10,Manchester Central,9,NH,May 18
+Joyanna Kabanda,14.11,Bishop Brady,12,NH,May 23
+Taylor Alperin,14.12,Timberlane Regional,12,NH,May 12
+Moser Lily,14.12,Merrimack Valley,12,NH,Apr 28
+Katherine Kersten,14.13,Keene,9,NH,May 09
+Jordin Lopez,14.13,Nashua North,11,NH,May 12
+Olivia Mangahas,14.14,Nashua South,9,NH,May 18
+Safi Ahad,14.14,Pinkerton Academy,9,NH,Apr 21
+Hannah Gibbs,14.14,Phillips Exeter Academy,10,NH,Apr 18
+Eowyn Jones,14.15,Hanover,9,NH,May 12
+Sarah Yzzogh,14.16,The Derryfield,9,NH,May 08
+Abby Junkins,14.16,Spaulding,12,NH,May 12
+Carolyn Milks,14.16,Portsmouth,12,NH,Apr 08
+Sadie Sturgeon,14.18,Belmont,11,NH,May 19
+Naomi Powell,14.18,Newmarket,10,NH,Apr 13
+Shaneda Jackson,14.18,Londonderry,11,NH,Apr 07
+Natalie Bryant,14.18,Nashua North,10,NH,May 12
+Amber Proulx,14.19,Pinkerton Academy,9,NH,Apr 21
+Alivia Swenson,14.20,Merrimack,9,NH,May 19
+Julia Berry,14.20,Campbell,11,NH,May 05
+Lilyana Valley,14.20,Hillsboro-Deering,10,NH,Apr 14
+Isabelle Navoy,14.20,Merrimack Valley,12,NH,Apr 28
+Mae Guiraud,14.21,Alvirne,10,NH,May 19
+Emily Tripple,14.22,Winnisquam Regional,12,NH,Apr 28
+Nyla St Onge,14.22,Spaulding,9,NH,May 16
+Lilinette Quinones,14.25,Manchester Memorial,9,NH,Apr 25
+Maura Hiller,14.25,Alvirne,9,NH,Apr 28
+Peyton Tessier,14.26,Milford,9,NH,May 09
+Ava Mailloux,14.26,Raymond,10,NH,May 18
+Alyssa Cutter,14.26,Spaulding,9,NH,May 12
+Shukri Mohamed,14.27,Manchester Central,9,NH,May 12
+Emily Tetreault,14.27,Pelham,11,NH,May 12
+Jainahlyn Phomveha,14.27,Nashua South,9,NH,May 12
+Baylee MacLean,14.27,Salem,11,NH,May 18
+Margaret Gross,14.28,Hopkinton,9,NH,May 16
+Ayla Palmer,14.28,Bow,10,NH,Apr 18
+Julia Reynolds,14.28,Newfound Regional,11,NH,Apr 21
+Grace Cannard,14.29,Timberlane Regional,9,NH,Apr 21
+Emily MacLean,14.29,Newfound Regional,11,NH,Apr 21
+Aleena Anaya,14.31,Alvirne,9,NH,May 19
+Alysha Almonte,14.31,Merrimack,11,NH,May 12
+Liliana Jackson,14.32,Alvirne,10,NH,Apr 28
+Khloe Shanahan,14.33,Pelham,9,NH,Apr 21
+Emily Runions,14.33,Somersworth,11,NH,May 18
+Mia Simpson,14.33,Portsmouth,9,NH,May 12
+Olive Norse,14.33,Hanover,10,NH,May 19
+Kylie Chewlin,14.33,Nashua South,9,NH,May 18
+Sharon Jackson,14.33,Londonderry,11,NH,Apr 07
+Lily Sykes,14.33,Sunapee,12,NH,Apr 30
+Ayvah Chrisman,14.33,Nashua South,9,NH,May 18
+Aryana Ghosh,14.34,Souhegan,11,NH,Apr 25
+Honey Miller,14.35,Sunapee,11,NH,May 08
+Vivian Ngo,14.35,Manchester Memorial,9,NH,May 18
+Madison O'Brien,14.36,Proctor Academy,9,NH,Apr 16
+Caitlyn Conover,14.36,Belmont,11,NH,May 12
+Milan de Gijsel,14.36,Hanover,11,NH,May 07
+Gabriela Bielecki,14.36,Merrimack,10,NH,May 19
+Brenna Enright,14.37,Milford,9,NH,May 21
+Violet Graziano,14.39,Epping,10,NH,May 18
+Elizabeth Deloge,14.39,Newmarket,10,NH,Apr 13
+Natalia Gillis,14.39,Keene,11,NH,May 12
+Bella Caron,14.40,Franklin,11,NH,May 05
+Dhyana Patel,14.41,Nashua South,9,NH,May 18
+Lyla Jacobson,14.43,Mascoma Valley Reg,10,NH,Apr 14
+Xayhina Torres,14.43,Manchester West,9,NH,May 20
+Dominique Reiher,14.44,Phillips Exeter Academy,10,NH,May 23
+Toniloluwa (Toni) Asenuga,14.44,Phillips Exeter Academy,11,NH,May 23
+Mollie Sexton,14.44,Oyster River,11,NH,May 12
+Jane Collins,14.45,St Paul's,10,NH,May 02
+Steisy Ferreras,14.45,Nashua North,9,NH,May 12
+Taijah Musumarra,14.46,Laconia,10,NH,May 19
+Evelyn Desmarias,14.48,Conant,9,NH,May 21
+Ella Smith,14.48,Stevens,10,NH,Apr 30
+Fiona Kenney,14.48,Pelham,12,NH,May 21
+Joey Hofstra,14.48,Portsmouth,9,NH,Apr 08
+Kristen Higgins,14.48,Lebanon,11,NH,May 19
+Juliannah Jordan,14.49,Kearsarge Regional,10,NH,May 12
+Claire Towne,14.49,Mount Royal Academy,7,NH,May 11
+Sarah Muhandis,14.49,Manchester Central,9,NH,May 18
+Maeve Flanagan,14.50,The Derryfield,10,NH,Apr 26
+Lauren Merrin,14.50,Kingswood Reg Senior,9,NH,May 16
+Brookelyn LeBlanc,14.50,Newfound Regional,9,NH,May 05
+Avianna McCormick,14.51,Dover,10,NH,Apr 15
+Bri Gravel,14.52,Bow,10,NH,May 16
+Alia Dodge,14.52,Con-Val,12,NH,May 21
+Maya Bourque,14.52,Sunapee,11,NH,May 11
+Natalie Cowser,14.53,Prospect Mountain,10,NH,May 23
+Sarah Adebola,14.53,St Paul's,9,NH,May 02
+Beatrice Clapp,14.54,Oyster River,9,NH,Apr 11
+Caitlin Detamore,14.54,Profile,8,NH,Apr 16
+Abigail Osmer,14.54,Winnisquam Regional,12,NH,May 12
+Chloe Greenwood,14.54,Newport,12,NH,Apr 11
+Kaitlin Maloney,14.54,Lebanon,10,NH,May 19
+Nandini Iyer,14.54,Bedford,9,NH,May 19
+Adella Monnat,14.56,Kearsarge Regional,10,NH,May 23
+Zariah Moore,14.56,Winnisquam Regional,12,NH,May 19
+Leora Bartoli,14.57,The Derryfield,10,NH,Apr 18
+Seneca Davis,14.58,Dover,10,NH,May 09
+Clementine Mayala,14.58,Concord,11,NH,Apr 25
+Brooke Bachhuber,14.58,Coe-Brown Northwood Academy,12,NH,Apr 11
+Olivia Gagne,14.58,Nashua South,10,NH,Apr 21
+Gwen Oljey,14.59,Londonderry,9,NH,Apr 21
+Tatiana Torres,14.59,Manchester Memorial,9,NH,May 18
+Josie Van Ham,14.60,Bow,12,NH,May 22
+Brylee Coffman,14.60,Bow,9,NH,May 08
+Reagan Mack,14.60,Plymouth Regional,10,NH,Apr 13
+Stella Arnone,14.60,Con-Val,9,NH,May 21
+Leah Bryant,14.60,Somersworth,11,NH,May 05
+Sydney Mark,14.61,Hopkinton,9,NH,May 16
+Tessa Mance,14.62,St Paul's,9,NH,Apr 15
+Naomi Tracy,14.62,Profile,11,NH,Apr 16
+Kyleigh Roe,14.63,Belmont,11,NH,May 19
+Alyvia Benson,14.63,Wilton Lyndeboro Coop,7,NH,May 09
+Aliyah Rivera,14.64,Pelham,11,NH,May 12
+Aydriana Beland,14.64,Alvirne,9,NH,Apr 28
+Chinyere Stanley,14.64,Nashua North,11,NH,May 12
+Leah Plante,14.65,Goffstown Area,9,NH,May 12
+Quinn Facey,14.66,St Paul's,12,NH,Apr 22
+Neveah Addieg,14.66,Oyster River,11,NH,Apr 21
+Avianna Lavoie,14.67,Gorham,10,NH,May 23
+Olivia Inzenga,14.67,Alvirne,11,NH,Apr 28
+Kelsey Palmeter,14.67,Trinity,9,NH,Apr 26
+Liliane Whittum,14.67,Newfound Regional,12,NH,May 19
+Brynn Lavigne,14.67,Souhegan,9,NH,May 05
+Clara Lighthiser,14.67,St Paul's,11,NH,May 09
+Hayley Krimmer,14.68,Manchester Memorial,10,NH,May 18
+Saylor Gregory,14.68,Exeter,9,NH,Apr 21
+Jovie Mathers,14.68,The Tilton,10,NH,Apr 25
+Juliana Belmonte,14.69,Hollis-Brookline,9,NH,Apr 21
+Taylor Allar,14.69,Kingswood Reg Senior,11,NH,May 16
+Annabelle Jacques,14.69,Oyster River,10,NH,May 12
+Sofia Rotast,14.70,Campbell,10,NH,May 05
+Abigail Allain,14.70,Bedford,9,NH,May 19
+Aerowyn Schwertz,14.71,Conant,11,NH,May 11
+Macy O'Donnell,14.72,John Stark Regional,9,NH,Apr 23
+Mia Mitchell,14.73,Londonderry,10,NH,May 19
+Rhys Reardon,14.74,Exeter,9,NH,May 12
+Ava Lisboa,14.74,Salem,9,NH,May 18
+London Oglesby,14.75,Merrimack Valley,9,NH,May 20
+Sabrina Arigala,14.75,Merrimack,10,NH,May 09
+Alexandra Pena,14.75,Londonderry,12,NH,Apr 07
+Isabel McKane,14.75,Coe-Brown Northwood Academy,9,NH,Apr 09
+Piper Cargin,14.76,Epping,11,NH,Apr 25
+Ellie Lopez Jimenez,14.79,Salem,9,NH,May 12
+Kayleigh Huberty,14.80,Pelham,10,NH,Apr 21
+Hadley Pincins,14.80,Oyster River,9,NH,May 12
+Emmanuella Sampong,14.80,Campbell,10,NH,May 05
+Kaylee Katimy,14.80,Windham,9,NH,May 12
+Amber Chamberlain,14.80,Kearsarge Regional,11,NH,Apr 21
+Aislynn Boles,14.81,Spaulding,11,NH,Apr 21
+Isabella Delorme,14.81,Pembroke Academy,9,NH,Apr 23
+Josefina Eliessetch,14.81,Kearsarge Regional,12,NH,Apr 21
+Scarlett Methven,14.82,Fall Mountain,9,NH,May 19
+Julia Long,14.83,Dover,9,NH,Apr 21
+Julia Murphy,14.83,Souhegan,9,NH,Apr 28
+Stella Foley,14.83,Souhegan,10,NH,May 13
+Ellen Orr,14.83,Phillips Exeter Academy,11,NH,May 23
+Addy Ingham,14.84,Kingswood Reg Senior,12,NH,Apr 18
+Corinna Bettencourt,14.86,Nashua South,10,NH,May 18
+Bianca Wibowo,14.86,Portsmouth Christian,12,NH,May 12
+Audrey Leith,14.87,Proctor Academy,10,NH,Apr 16
+Lela Takekoshi,14.89,Spaulding,12,NH,Apr 08
+Khloe Letourneau,14.90,Pelham,11,NH,May 12
+Nicole Cancilla,14.90,Dover,12,NH,Apr 11
+Vera Mello,14.90,Bishop Guertin,9,NH,May 19
+Alexis DiPalma,14.90,Franklin,12,NH,May 19
+Bianca Brouillard-Smith,14.91,Coe-Brown Northwood Academy,11,NH,Apr 18
+Callie Dixon,14.91,Newport,12,NH,Apr 21
+Amelina Mangini,14.92,Lebanon,9,NH,May 12
+Rayleen Rhodes,14.93,Berlin,11,NH,Apr 10
+Yasmin Sbai,14.93,Pinkerton Academy,10,NH,May 02
+Lillian Bamberger,14.94,St Paul's,10,NH,Apr 22
+Nora Tagliaferro,14.94,John Stark Regional,11,NH,Apr 23
+Hallee Albert,14.95,Gorham,12,NH,Apr 16
+Casey Pietroniro,14.95,Plymouth Regional,10,NH,Apr 13
+Jasmine Blake,14.96,Pembroke Academy,12,NH,Apr 25
+Emma Fellows,14.98,Lebanon,9,NH,Apr 14
+Malina Archibald,14.98,Bow,11,NH,Apr 23
+Stephanie Acierno,14.99,Mascenic Regional,9,NH,May 11
+Mary Kouloheras,15.00,Winnacunnet,10,NH,May 04
+Stella Ebelt,15.00,Fall Mountain,10,NH,Apr 14
+Reese Griffin,15.00,Berlin,10,NH,Apr 16
+Mae Davis,15.00,Bedford,10,NH,Apr 21
+Maeve Hayes,15.01,Timberlane Regional,11,NH,May 12
+Matilde Landenberg,15.01,Wilton Lyndeboro Coop,11,NH,May 08
+Khawlah Abdulhasan,15.01,Manchester Central,9,NH,May 18
+Matilda Hebron,15.02,Inter-Lakes,9,NH,May 16
+Lydia Edgerly,15.02,Newmarket,11,NH,Apr 15
+Ella Stevens,15.03,Belmont,11,NH,Apr 10
+Adah Vitello,15.03,Conant,10,NH,May 11
+Mia Leavis,15.03,Exeter,9,NH,Apr 08
+Faina Klar,15.04,Windham,9,NH,May 12
+Mya Goldsmith,15.04,Dover,11,NH,Apr 11
+Mary Suozzo,15.04,Bedford,12,NH,Apr 11
+Maddi Perez,15.04,Spaulding,10,NH,Apr 21
+Anna Brady,15.04,Portsmouth,10,NH,May 09
+Ainslee Thompson,15.05,Hollis-Brookline,9,NH,Apr 21
+Lucy Hubbard,15.06,Holy Family Academy,7,NH,May 22
+Faith Williams,15.06,St Paul's,9,NH,Apr 15
+Yaya Biel,15.06,Manchester West,10,NH,Apr 13
+Laurel Wright,15.06,Windham,11,NH,Apr 25
+Karley Hollis,15.06,Mascoma Valley Reg,11,NH,May 08
+Scarlette Bates,15.07,Mascoma Valley Reg,9,NH,May 11
+Meredith Kerivan,15.07,Coe-Brown Northwood Academy,12,NH,Apr 09
+Kailey Pilvelis,15.09,Goffstown Area,11,NH,Apr 21
+Natalie Bokinala,15.10,Lebanon,10,NH,Apr 11
+Audrey Underhill,15.10,Kimball Union Academy,10,NH,Apr 22
+Layla Richards,15.11,Woodsville,9,NH,May 21
+Lilia Fecteau,15.12,Phillips Exeter Academy,12,NH,May 23
+Kaylee Fortin,15.14,Sanborn Regional,11,NH,Apr 06
+Adora Fresolone,15.15,Profile,12,NH,Apr 21
+Alanna Norris,15.15,Merrimack,9,NH,May 12
+Rayelle Nester,15.15,Sunapee,11,NH,Apr 21
+Hazel Davis,15.16,Plymouth Regional,9,NH,May 22
+Kianna LaFrance,15.16,Nashua North,10,NH,May 12
+Isabella Silva,15.17,Pinkerton Academy,10,NH,May 19
+Reina Johnson,15.17,The Derryfield,11,NH,Apr 26
+Julietta Wakeham,15.18,Profile,9,NH,May 19
+Svea Howe,15.18,Portsmouth Christian,10,NH,Apr 18
+Gwen Kelley,15.20,Kimball Union Academy,9,NH,May 16
+Evelyn O'Melia,15.20,Merrimack,9,NH,May 19
+Mia Samenfeld,15.22,Kearsarge Regional,10,NH,May 21
+Kayzlee Ruru,15.23,Coe-Brown Northwood Academy,10,NH,May 05
+Eloise Abbott,15.23,Winnisquam Regional,9,NH,Apr 21
+Keziah Rodgers,15.23,Nashua North,9,NH,May 12
+Cadence Levasseur,15.24,Keene,10,NH,May 18
+Hadassah Crane,15.24,Plymouth Regional,10,NH,Apr 13
+Maya Kammer,15.25,Bedford,10,NH,Apr 21
+Madison Lockwood,15.26,Goffstown Area,10,NH,May 12
+Brooke Grenier,15.26,Epping,9,NH,Apr 13
+Dani Carriere,15.26,Mascoma Valley Reg,10,NH,May 11
+Flora Kerwin,15.27,Souhegan,9,NH,May 05
+Piper Christopher,15.27,Proctor Academy,10,NH,May 07
+Tavaih Sheppard,15.27,Somersworth,9,NH,May 12
+Isabella Dennis,15.27,Pinkerton Academy,9,NH,Apr 07
+Brandi Gately,15.28,Winnacunnet,11,NH,May 04
+Sophie Breton,15.28,Nashua North,9,NH,May 12
+Natalie Brown,15.28,Nashua South,9,NH,May 18
+Karelyn Cavarretta-Smith,15.29,Coe-Brown Northwood Academy,9,NH,Apr 09
+Gabriella Callahan,15.30,Campbell,9,NH,May 05
+Charlotte Craig,15.30,Exeter,11,NH,Apr 11
+Lexi Gagnon,15.31,Spaulding,11,NH,Apr 18
+Sabrina Smith,15.31,Pinkerton Academy,9,NH,May 19
+Nathalie Proulx,15.31,Hillsboro-Deering,11,NH,Apr 26
+Taylor Bryant,15.31,Inter-Lakes,9,NH,Apr 21
+Isabella Cotran,15.31,Portsmouth,9,NH,May 12
+Sophie Fisher,15.33,Bedford,9,NH,May 19
+Lacey Dagher,15.34,Manchester Memorial,10,NH,May 18
+Victoria Perreault,15.34,Bedford,9,NH,May 19
+Kenadie Vittum,15.35,Kingswood Reg Senior,9,NH,May 20
+Emma Hotilovac,15.35,Pinkerton Academy,9,NH,May 19
+Emme Kayes,15.35,Exeter,11,NH,Apr 08
+Leia Kim,15.35,Exeter,9,NH,Apr 08
+Daizey Perron,15.36,Merrimack Valley,12,NH,Apr 09
+Dejah Higgins,15.36,John Stark Regional,9,NH,Apr 23
+Rosie Blake,15.36,The Derryfield,9,NH,Apr 18
+Emilia Hosking,15.37,Hollis-Brookline,9,NH,May 20
+Hallie Adams,15.37,The Tilton,10,NH,Apr 25
+Violet Blanner,15.37,Spaulding,11,NH,May 12
+Madisyn Nicoll,15.37,Laconia,10,NH,May 19
+Anna McDonald,15.37,Belmont,12,NH,May 19
+Arianna Merritt,15.38,Mount Royal Academy,10,NH,Apr 30
+Taylor Schmidt,15.38,Salem,11,NH,May 12
+Jazlyn Meeks,15.39,St Thomas Aquinas,12,NH,Apr 25
+Kaylinn Pena,15.39,Trinity,9,NH,May 20
+Gabby Witcher,15.41,Profile,9,NH,Apr 16
+Molly Himber,15.41,Sanborn Regional,-,NH,May 11
+Abigail Ackerly,15.42,Kingswood Reg Senior,9,NH,May 20
+Michaela Chen,15.42,Plymouth Regional,9,NH,May 07
+Sophia Buckley,15.43,John Stark Regional,10,NH,May 11
+Emma Vetter,15.43,Portsmouth,10,NH,May 09
+Lilliana Perkins,15.44,Merrimack Valley,9,NH,Apr 14
+Abigail Callahan,15.44,The Derryfield,9,NH,May 21
+Zoe Wesson,15.45,Berlin,10,NH,Apr 10
+Lillian Kilb-sanders,15.45,Alvirne,10,NH,Apr 28
+Taylor Bower,15.46,Monadnock Regional,11,NH,Apr 14
+Eliza Allen,15.46,Winnisquam Regional,9,NH,Apr 26
+Kyna McManus,15.47,Timberlane Regional,12,NH,May 12
+Kelly Patten,15.49,Plymouth Regional,9,NH,May 07
+Caelyn Bauer,15.50,John Stark Regional,10,NH,Apr 23
+Molly Scott,15.50,Pinkerton Academy,10,NH,May 19
+Janka Lochova,15.51,Pembroke Academy,11,NH,Apr 23
+Eve Anella,15.51,Portsmouth Christian,9,NH,May 12
+Charlotte Primeau,15.51,Nashua South,11,NH,Apr 21
+Mia Currier,15.52,Coe-Brown Northwood Academy,9,NH,Apr 21
+Lily-Mae Lemieux,15.52,Raymond,10,NH,May 18
+Kylie Millette,15.53,Spaulding,11,NH,Apr 18
+Chalani Carter,15.53,Exeter,9,NH,Apr 21
+Alayna Maguire,15.54,Pembroke Academy,11,NH,Apr 23
+Audrianna Forest,15.55,Pembroke Academy,9,NH,May 20
+Charlotte Vezina,15.55,Pembroke Academy,9,NH,Apr 14
+Kyra Russell,15.59,Winnisquam Regional,11,NH,Apr 28
+Gia Clay,15.59,Keene,9,NH,Apr 28
+Ava Haynes,15.59,St Paul's,10,NH,Apr 15
+Sophia Naro,15.60,Kennett,9,NH,Apr 28
+Olivia Emond,15.60,Concord,10,NH,Apr 21
+Lisa Amadi,15.60,Alvirne,12,NH,Apr 11
+Illiana Wesson,15.60,Merrimack Valley,10,NH,Apr 28
+Nazlie Taban,15.60,Franklin,12,NH,May 05
+Cadence West,15.62,Kingswood Reg Senior,9,NH,May 05
+Mary Picone,15.62,Goffstown Area,12,NH,May 12
+Alex Stamnas,15.62,Spaulding,11,NH,Apr 08
+Abigail Tremblay,15.62,Exeter,11,NH,Apr 08
+Madeline Sullivan,15.62,Souhegan,9,NH,May 02
+Jade Dutton,15.63,Sanborn Regional,12,NH,May 18
+Yuna Hong,15.64,St Paul's,12,NH,Apr 18
+Hannah Myers,15.64,Bedford,9,NH,May 19
+Katelyn Cloutier,15.65,Alvirne,9,NH,May 19
+Quinn Morin,15.67,Kennett,9,NH,May 16
+Rylie Phillips,15.67,Dover,10,NH,Apr 21
+Isabelle Jenkins,15.67,Oyster River,12,NH,May 12
+Addyson Glejzer,15.69,Goffstown Area,11,NH,May 12
+Ellie Parton,15.69,John Stark Regional,9,NH,Apr 23
+Sophia Lazarz,15.70,Dover,9,NH,Apr 11
+Lillian Vick,15.70,Coe-Brown Northwood Academy,9,NH,Apr 09
+Charlotte Lott,15.73,Bishop Brady,12,NH,Apr 14
+Ida Underwood,15.73,Mascoma Valley Reg,10,NH,Apr 14
+Isabelle Nadeau,15.74,Mount Royal Academy,12,NH,Apr 28
+Harika Godavarthy,15.74,Bedford,10,NH,May 19
+Julie Beaton,15.75,Prospect Mountain,10,NH,May 21
+Kiera Bradley,15.76,The Derryfield,12,NH,Apr 11
+Lilyanne Trow,15.80,Mount Royal Academy,7,NH,Apr 28
+Hage Shaban,15.80,Portsmouth,9,NH,Apr 08
+Evelyn Garon,15.81,Salem,9,NH,May 18
+Mackenzie Sousa,15.81,Nashua South,10,NH,May 18
+Isabelle Grenier,15.82,Coe-Brown Northwood Academy,12,NH,May 05
+Allie Golen,15.85,Concord,9,NH,May 02
+Olivia Lee,15.85,Phillips Exeter Academy,11,NH,Apr 18
+Bethany Souther,15.86,St Thomas Aquinas,11,NH,Apr 21
+Mitchelle Omondi,15.86,Oyster River,11,NH,May 12
+Tiara Johnson,15.86,Manchester Central,10,NH,May 12
+Mazzy Little,15.86,Kingswood Reg Senior,9,NH,May 20
+Hannah Connors,15.87,Manchester West,9,NH,Apr 23
+Kate Wehmeyer,15.87,Hanover,12,NH,May 07
+Chloe Jones,15.88,Portsmouth,9,NH,Apr 08
+Aubrey Grow,15.89,Kennett,11,NH,Apr 28
+Claire Wilke,15.91,Bow,11,NH,Apr 23
+Emma Fifield,15.92,Pembroke Academy,9,NH,May 12
+Mariana Smith-Fuentes,15.95,Pembroke Academy,9,NH,Apr 23
+Brooklyn Polewrczyk,15.97,Souhegan,10,NH,May 13
+Adriana Niven,15.98,Spaulding,11,NH,May 12
+Adeline Stevens,15.98,Monadnock Regional,9,NH,Apr 14
+Meghan McKeen,16.01,Bow,11,NH,Apr 23
+Sophia Fazio,16.04,Salem,9,NH,May 18
+Mikaela Coletti,16.05,Winnacunnet,9,NH,Apr 15
+Ady Lessard,16.05,Dover,9,NH,Apr 11
+Ella Nazzaro,16.07,Salem,9,NH,May 18
+Adrianna Cruz-Osorio,16.07,Nashua South,10,NH,May 18
+Courtney Sabato,16.09,Plymouth Regional,12,NH,Apr 13
+Taylor Weldon,16.09,Hopkinton,9,NH,Apr 18
+Bella Bagley-Broome,16.12,Gorham,9,NH,Apr 16
+Sophia D'Allesandro,16.12,Fall Mountain,11,NH,Apr 21
+Brailyn Dubois,16.12,Mascoma Valley Reg,9,NH,Apr 30
+Subin Park,16.13,St Paul's,11,NH,Apr 11
+Abby Johnson,16.13,Kennett,9,NH,Apr 28
+Ariana Ruggiero,16.14,Dover,9,NH,Apr 25
+Vera Scarpati,16.16,Nashua South,9,NH,Apr 21
+Karaleigh Fravel,16.16,Newfound Regional,10,NH,Apr 11
+Marcella Tonge,16.16,Bishop Brady,12,NH,May 12
+Sky Woods,16.20,Portsmouth,10,NH,Apr 08
+Louise Dickson,16.22,Proctor Academy,9,NH,Apr 16
+I'Leigh Blouin,16.22,Londonderry,10,NH,May 19
+Emerson Doherty,16.23,Goffstown Area,11,NH,Apr 21
+Piper Harris,16.23,Epping,9,NH,Apr 13
+Braelynne Sanders,16.23,Goffstown Area,9,NH,May 02
+Ihssane BenYahya,16.25,Pembroke Academy,9,NH,May 12
+Kira Campanile,16.25,Prospect Mountain,10,NH,Apr 16
+Ellie Barton,16.25,Concord Christian,10,NH,May 11
+Olivia Larochelle,16.28,Raymond,10,NH,Apr 06
+Ceara LaRose,16.28,St Thomas Aquinas,9,NH,Apr 21
+Karis Kuhn,16.28,Souhegan,9,NH,May 13
+Charlotte McKenna,16.29,Pinkerton Academy,10,NH,Apr 07
+Ashley Arias,16.31,Holy Family Academy,8,NH,May 16
+Chloe Tuthill,16.33,Somersworth,11,NH,Apr 21
+Dayanna Contreras-Garcia,16.34,Nashua South,9,NH,May 12
+Avery Peck,16.36,Mascoma Valley Reg,9,NH,Apr 14
+Morgan Fitts,16.37,Mascoma Valley Reg,9,NH,May 11
+Eryn Kenney,16.37,Londonderry,9,NH,Apr 28
+Gia Botkin,16.38,Moultonborough Academy,10,NH,May 22
+Ella Dong,16.39,Kimball Union Academy,10,NH,Apr 22
+Lorelai Estabrook,16.40,Newmarket,10,NH,Apr 21
+Marlena Duchemin,16.40,Timberlane Regional,9,NH,May 12
+Ava Burl,16.40,Bedford,9,NH,May 19
+Xalix Jaquez,16.41,St Paul's,10,NH,May 02
+Kyrielle Whiting,16.42,Moultonborough Academy,10,NH,Apr 16
+Nariah Stevens,16.42,Pembroke Academy,11,NH,Apr 14
+Ila Sivert,16.43,Fall Mountain,9,NH,May 19
+Ava Gazda,16.44,Windham,12,NH,May 21
+Avery Paterson,16.46,Exeter,9,NH,May 04
+Brenna Ball,16.46,Coe-Brown Northwood Academy,10,NH,Apr 16
+Carissa Libby,16.46,Manchester Memorial,10,NH,May 18
+Sophia Bergeron,16.47,Berlin,10,NH,May 19
+Molly Smart,16.47,Hillsboro-Deering,12,NH,Apr 14
+Carly Cerasi,16.48,Winnacunnet,9,NH,May 04
+Pari Patel,16.51,White Mountains,11,NH,Apr 11
+Makayla Baglio,16.55,Concord Christian,12,NH,May 11
+Liana Swirko,16.61,Hillsboro-Deering,12,NH,Apr 14
+Maeve Power,16.63,Coe-Brown Northwood Academy,10,NH,May 05
+Constance Yeingst,16.66,Newport,11,NH,Apr 21
+Makayla Desforges,16.68,John Stark Regional,9,NH,May 22
+Evelyn Beauboeuf,16.69,Inter-Lakes,10,NH,Apr 21
+Eden Eddington,16.70,Nashua North,9,NH,May 12
+Emmy Dube,16.73,Gorham,10,NH,Apr 21
+Riya Sood,16.75,Nashua South,10,NH,May 18
+Olivia Hudson,16.75,Nashua South,9,NH,Apr 21
+Poppy O'brien,16.75,Portsmouth,10,NH,May 09
+Alexandra Wade,16.76,Exeter,9,NH,May 04
+Natalie Rickrode,16.78,Lebanon,9,NH,May 07
+Charlotte Lynn,16.79,Concord,10,NH,Apr 21
+Madison Williams,16.82,Coe-Brown Northwood Academy,9,NH,May 09
+Allison Gouveia,16.82,Sanborn Regional,-,NH,Apr 06
+Charlotte Huffman,16.83,Concord,9,NH,May 02
+Totem LaRochelle,16.85,Woodsville,7,NH,May 16
+Lauren Anderson,16.85,Epping,12,NH,May 11
+April Kidd,16.90,Campbell,9,NH,May 05
+Mayama Kenneh,16.90,Concord,9,NH,Apr 21
+Angie Delance,16.92,Manchester Central,10,NH,May 09
+Brooke Lavoie,16.93,White Mountains,9,NH,May 16
+Sydney Tremblay,16.93,Exeter,9,NH,Apr 08
+Ariana Colby,16.94,Fall Mountain,10,NH,Apr 14
+Monsserraht Tovar Perez,16.95,Manchester Memorial,11,NH,May 18
+Hayley English,16.97,Newfound Regional,9,NH,Apr 11
+Ava Schroeder,17.02,Timberlane Regional,9,NH,Apr 16
+Libby Carter,17.09,Merrimack Valley,10,NH,May 20
+Adolfina Kisembe,17.13,Concord,10,NH,May 11
+Alliyah Francis,17.14,Portsmouth,10,NH,Apr 08
+Anyia Thibodeau,17.20,Stevens,10,NH,May 19
+Natalie Taylor,17.22,Concord Christian,10,NH,May 11
+Cadence Bassett,17.23,Merrimack,11,NH,May 19
+Erin Scarpati,17.24,Nashua South,11,NH,May 18
+Emilia Zadakis,17.27,Coe-Brown Northwood Academy,10,NH,Apr 21
+Stacia LaRochelle,17.28,Portsmouth,9,NH,Apr 08
+Charlotte Crespo,17.31,Conant,11,NH,May 21
+Capri Walfield,17.35,Timberlane Regional,9,NH,Apr 16
+Norah Heinemeyer,17.41,Kingswood Reg Senior,9,NH,May 20
+HaydenRose Moriarty,17.41,Winnisquam Regional,12,NH,Apr 10
+Abuk Abiem,17.46,Trinity,9,NH,Apr 18
+Evelyn Symonds,17.46,Nashua South,10,NH,Apr 21
+Rose Morin,17.46,Nashua North,10,NH,May 12
+Kate Ensign,17.49,Proctor Academy,9,NH,May 07
+Rachele DiStefano,17.50,Franklin,11,NH,Apr 21
+Avery Duval,17.53,Hopkinton,9,NH,May 12
+Kylie Bourgoine,17.54,Bishop Brady,10,NH,Apr 23
+Sophia Moulis,17.55,The Derryfield,10,NH,May 21
+Chekina Baptista,17.57,Newmarket,9,NH,Apr 21
+Norrey O'Neil,17.60,Conant,9,NH,May 11
+Emma Ahern,17.75,Nashua North,11,NH,May 12
+Autumn Scully,17.76,Epping,9,NH,Apr 13
+Emma Thompson,17.79,Woodsville,Fr,NH,May 16
+Ada Brinkle,17.94,Dover,9,NH,Apr 15
+Hayleigh Herrholz,17.96,Bow,9,NH,May 20
+Angelys Lora De Leon,18.10,Dover,9,NH,Apr 21
+Abigail Smith,18.11,Goffstown Area,10,NH,May 12
+Rafaella Ramirez-Guerrero,18.16,Franklin,10,NH,May 19
+Allia Omar,18.26,Portsmouth,11,NH,Apr 08
+Penelope Kerls,18.32,Kennett,10,NH,Apr 28
+Seanna Lee Batangan-Cruite,18.41,Hillsboro-Deering,9,NH,Apr 14
+Josie MacDonald,18.49,Kennett,12,NH,Apr 21
+Deeqo Hussein,18.49,Concord,11,NH,May 11
+Esme Blewett,18.99,Hopkinton,11,NH,Apr 18
+Raylynn LaFerriere,19.38,Newmarket,9,NH,Apr 06
+Sofia Martin,19.42,Merrimack Valley,10,NH,May 20
+Kayleigh Ball,20.12,White Mountains,9,NH,May 16
+Heidi Cayton,20.27,Franklin,11,NH,May 19
+Kimberly Zheng,20.38,Manchester Memorial,10,NH,May 18
+Meya Caldon,20.40,Franklin,10,NH,Apr 21
+Grace Bright,20.51,Concord Christian,11,NH,May 11
+Isabella Sidoti,22.19,Kennett,12,NH,May 16
+Lilly Brown,22.99,Kearsarge Regional,9,NH,May 21
+Amelia Booth,23.53,Coe-Brown Northwood Academy,10,NH,Apr 09

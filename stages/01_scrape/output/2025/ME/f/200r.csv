@@ -1,0 +1,856 @@
+name,time,team,grade,state,date
+Emerson Flaker,25.11,Scarborough,12,ME,Jun 10
+Lauren Vanidestine,25.91,Brewer,12,ME,Jun 10
+Macey Weisberg,26.00,Cheverus,10,ME,Jun 10
+Ashley Connolly,26.11,Gorham,12,ME,May 30
+Avery Bariteau,26.14,Fryeburg Academy,10,ME,Jun 10
+Haley Rose,26.18,Bucksport,11,ME,Jun 10
+Seneca Haney,26.19,Mount Desert Island,11,ME,Jun 14
+Bayley Fryer,26.24,Bangor,11,ME,Jun 14
+Elliette Musica,26.36,Brunswick,10,ME,Jun 14
+Kayla Monahan,26.51,Brunswick,12,ME,Jun 14
+JaLynn Williams,26.53,Bangor,12,ME,May 09
+Karoline Gonzales,26.56,Mt Blue,9,ME,Jun 14
+Jacqueline Diallo,26.63,Robert W Traip,9,ME,Jun 10
+Sophia Chase,26.63,Bangor,11,ME,May 09
+Jenni Flynn,26.64,Lewiston,12,ME,May 24
+Lisi Palmer,26.73,Brunswick,12,ME,May 02
+Taylor Scales,26.92,Hampden Academy,9,ME,Jun 03
+Emma Graham,26.96,Freeport,10,ME,May 31
+Tayla Pelletier,27.06,Windham,12,ME,Apr 24
+Stefanie Tuffour,27.06,Lewiston,12,ME,May 15
+Breah Curtis,27.12,Hampden Academy,10,ME,May 30
+Julia Pendleton,27.14,Bonny Eagle,12,ME,May 15
+Ella Johnson,27.15,Hermon,9,ME,Apr 25
+Olivea Miller,27.23,Leavitt Area,12,ME,Apr 24
+Hayden Hludik,27.24,Wells,9,ME,May 12
+Abby Noble,27.27,Yarmouth,11,ME,May 27
+Annabelle Vail,27.27,Gorham,10,ME,May 30
+Corinne Shank,27.33,Massabesic,10,ME,Jun 10
+Miah Jacobs,27.34,Yarmouth,10,ME,May 16
+Madi DiCentes,27.34,Hampden Academy,11,ME,May 30
+Abigail Hafer,27.37,Kennebunk,10,ME,May 30
+Kaylin Van Deventer,27.37,Nokomis Regional,12,ME,Jun 02
+Audrey O'Meara,27.40,Seacoast Christian,11,ME,May 02
+Amelia Caruso,27.43,Scarborough,12,ME,May 24
+Mercy Buchwalder,27.47,Lincoln Academy,11,ME,May 30
+Ella Rice,27.49,Winthrop,12,ME,May 29
+Reese Harder,27.53,Falmouth,11,ME,May 30
+Alisandra Lindos,27.58,Portland,12,ME,Apr 17
+Jennae Henry,27.59,Biddeford,9,ME,Jun 10
+Victoria Mpaka,27.63,Lewiston,12,ME,May 15
+Sovie Rau,27.64,Erskine Academy,10,ME,May 01
+Kaiya Poulin,27.64,Lewiston,10,ME,May 15
+Elza Cahn,27.65,John Bapst Memorial,9,ME,May 30
+Delia Murray,27.67,Morse,9,ME,May 22
+Charlotte Kerkela,27.69,Scarborough,9,ME,Jun 10
+Madeline Thai,27.70,Bangor,12,ME,May 30
+Lauren Low,27.70,Brewer,12,ME,May 30
+Allee Goodrich,27.72,Skowhegan Area,9,ME,Jun 03
+Addy Burkhardt,27.77,Lisbon,12,ME,May 29
+Alaina Holmes,27.81,Cheverus,11,ME,Apr 29
+Jaislynn Johnson,27.82,Sanford,9,ME,Apr 30
+Olivia Lizzotte,27.87,Old Town,11,ME,May 30
+Molly Nagel,27.87,Cape Elizabeth,11,ME,May 31
+Maegan Berry,27.88,South Portland,10,ME,May 30
+Madison Rose,27.88,Bucksport,11,ME,May 12
+Kyri Meak,27.89,Winslow,12,ME,Apr 24
+Cayden Lauziere,27.91,Bonny Eagle,12,ME,May 30
+Hadley Perry,27.91,Falmouth,10,ME,Apr 29
+Rose Campbell,27.94,Boothbay Region,11,ME,May 15
+Laiken Parent,27.95,Oceanside,11,ME,May 30
+Gabby Roy,27.95,Bangor,11,ME,May 09
+Claire Gaetani,27.96,John Bapst Memorial,12,ME,May 24
+Tessa Dougherty,27.97,Yarmouth,12,ME,Jun 10
+Ellie Douglas,27.98,Mt Ararat,10,ME,May 15
+Moriya Nguema,27.98,Deering,10,ME,May 30
+Aaliyah Iffih,27.99,Edward Little,10,ME,May 15
+Paisley Hayslip,28.00,Belfast Area,10,ME,May 30
+Ripley King-Ofsiany,28.01,George Stevens,9,ME,Jun 10
+Sarah Cox,28.05,Sacopee Valley,10,ME,Jun 10
+Sophia Aube,28.05,Poland Regional,9,ME,May 02
+Kaisley Marquis,28.06,Edward Little,11,ME,Jun 02
+Eva Alvarez,28.07,Scarborough,10,ME,May 24
+Keitonya Skepple,28.08,Houlton,9,ME,May 26
+Myla Vercoe,28.09,Windham,11,ME,May 13
+Anika Gin,28.11,Deering,12,ME,Apr 30
+Ella O'Connell,28.11,Mount Desert Island,9,ME,May 30
+Olivia Rittal,28.12,Boothbay Region,10,ME,May 29
+Grace Dufour,28.13,Bangor,11,ME,May 30
+Lizalyn Boudreau,28.14,Freeport,11,ME,Apr 18
+Evelyn Pepin,28.14,Mt Abram Regional,9,ME,Apr 29
+Addison Elliott,28.20,Hampden Academy,10,ME,May 22
+Alexis Heretakis,28.21,Foxcroft Academy,12,ME,May 31
+Issabella Spell,28.21,Maine Central Institute,9,ME,May 27
+Rose Tohanczyn,28.21,Camden Hills Regional,12,ME,May 17
+Libby Saucier,28.22,Old Town,11,ME,Jun 10
+Mary Allen,28.22,Central,11,ME,May 31
+Alexis Turner,28.23,Cheverus,10,ME,Jun 10
+Lilian Pierce,28.25,Greely,11,ME,May 02
+Asha Hassan,28.25,Lewiston,9,ME,May 15
+Amari Thornton,28.26,Noble,12,ME,May 30
+Natalia Charles,28.27,Hampden Academy,12,ME,May 22
+Sienna Geretz,28.32,Oceanside,12,ME,May 30
+Catherine Riley,28.33,Dexter Southfield,9,MA,May 17
+Regan Swallow,28.35,Falmouth,11,ME,May 30
+Georgia Moon,28.35,Falmouth,10,ME,May 15
+Abigail Bouffard,28.36,Biddeford,12,ME,May 21
+Alexus Lamour,28.39,South Portland,9,ME,May 30
+Keira Kelly,28.39,Falmouth,11,ME,May 20
+Enna Carbone,28.41,Fryeburg Academy,12,ME,May 31
+Victoria Zandan,28.41,Greely,10,ME,May 16
+Kiara Bushman,28.42,Edward Little,12,ME,Jun 02
+Maggie Robichaud,28.45,John Bapst Memorial,9,ME,May 30
+Mikayla Johnston,28.46,Old Town,12,ME,May 24
+Jacqueline Franklin,28.46,Greely,12,ME,Apr 18
+Gianni Meadows,28.47,Kents Hill,11,ME,May 17
+Amarine Laine,28.48,Scarborough,9,ME,May 24
+Auburn Horn,28.48,Erskine Academy,10,ME,May 26
+Margaret Booth,28.49,Scarborough,10,ME,Apr 17
+Des Milandu,28.50,South Portland,12,ME,May 30
+Anna Scully,28.51,Thornton Academy,12,ME,May 24
+Hana Hirschkorn,28.51,Cheverus,10,ME,May 17
+Adalyn Clark,28.51,Kennebunk,11,ME,May 13
+Grier Wright,28.52,Greely,12,ME,Jun 10
+Whitney Varney,28.53,Gorham,9,ME,Jun 03
+Jazmin Channon,28.54,Dexter Regional,11,ME,May 15
+Hope Webb,28.54,Maranacook Community,12,ME,May 15
+Ella Williams,28.55,John Bapst Memorial,9,ME,May 30
+Christie Mabi,28.55,Lewiston,11,ME,May 15
+Isabela Kidric,28.55,Falmouth,11,ME,May 20
+Hattie Tyler,28.56,Camden Hills Regional,10,ME,Jun 02
+Breanna Eaves,28.56,Mt Ararat,11,ME,May 15
+Mia Mariello,28.58,Biddeford,9,ME,May 15
+Grace Menario,28.59,Central,11,ME,May 31
+Ella Schulz,28.60,Scarborough,12,ME,Apr 17
+Siobhan Reeve,28.63,Robert W Traip,12,ME,Jun 10
+Halle Fortier,28.69,Hall-Dale,10,ME,Jun 10
+Lacey Palese,28.70,Brunswick,11,ME,Jun 02
+Austyn Atherton,28.71,Ellsworth,9,ME,May 30
+Ruby Smith,28.74,Freeport,10,ME,May 27
+Savannah Collins,28.74,Dexter Southfield,10,MA,May 17
+Amarii Weaver,28.75,Fort Kent Community,12,ME,May 13
+Hanna Garrepy,28.80,Mt Ararat,12,ME,May 15
+Olivia Burgess,28.81,Medomak Valley,12,ME,Apr 24
+Abby Rogers,28.81,Gorham,12,ME,May 30
+Sarah Middleton,28.83,Mt Ararat,10,ME,May 15
+Cedar Worster,28.86,Oxford Hills,11,ME,May 22
+Rachel Hubacz,28.91,Thornton Academy,11,ME,May 30
+London Wilkie,28.91,Lawrence,10,ME,May 30
+Elise Breiting-Brown,28.92,Deering,10,ME,May 07
+Ari Bradeen,28.93,Mt View,12,ME,May 26
+Ashley Foley,28.95,Deering,11,ME,May 15
+Brookelin Dorman,28.95,Dexter Regional,10,ME,May 09
+Elsa Reynolds,28.95,Brunswick,11,ME,May 07
+Madeline Bauer,28.97,St Dominic Regional,10,ME,May 12
+Camille Trueh,28.99,Mt Ararat,11,ME,May 01
+Ashley Arsenault,29.00,Winthrop,12,ME,May 26
+Sara Tennent,29.00,Falmouth,11,ME,May 15
+Ryleigh Kibe,29.01,Mount Desert Island,12,ME,May 30
+Maggie Thompson,29.02,Lincoln Academy,11,ME,May 01
+Reese Novicka,29.03,Oceanside,12,ME,May 20
+Maria Rocha,29.04,Deering,10,ME,May 15
+Maria Moumouris,29.05,Winslow,8,ME,May 02
+Greta Kenney,29.06,Houlton,9,ME,May 13
+Holly Aloegnikou,29.07,Lewiston,11,ME,May 02
+Ava Sawyer,29.09,Scarborough,9,ME,May 24
+Bailey Tardif-Mockler,29.10,Lewiston,11,ME,May 15
+Ava Hoffman,29.13,Yarmouth,9,ME,Jun 03
+Davyn Swindells,29.13,Gardiner Area,11,ME,Apr 30
+Lucy Cheney,29.15,Presque Isle,10,ME,May 26
+Kiana Martin,29.17,South Portland,9,ME,May 01
+Greta Johnson,29.20,Scarborough,10,ME,May 13
+Gwen Martin,29.20,Scarborough,9,ME,May 13
+Belle Valenzuela,29.21,Bucksport,9,ME,May 01
+Moriah Smith,29.24,Boothbay Region,9,ME,May 29
+Marlo Anderson,29.24,Freeport,10,ME,May 27
+Angelina Boisvert,29.24,Maine Central Institute,11,ME,Apr 30
+Athanasia Andoniades,29.28,Lewiston,12,ME,May 15
+Taylor Libby,29.29,Ellsworth,12,ME,May 30
+Nina Brown,29.33,St Dominic Regional,11,ME,May 02
+Aurora Newcomb,29.33,Mt Ararat,11,ME,May 08
+Delilah Turkington,29.33,Gray-New Gloucester,9,ME,May 16
+Allie Bartol,29.34,Presque Isle,11,ME,May 17
+Keeley Patrick,29.36,Portland,10,ME,Apr 17
+Kiley Thibodeau,29.42,Bangor,10,ME,May 30
+Joana Almeida,29.43,Lewiston,10,ME,May 24
+Brooklyn Mansaur,29.43,Old Orchard Beach,9,ME,Jun 10
+Trinity Westfall,29.44,Oceanside,11,ME,May 01
+Avery Bouffard,29.44,Robert W Traip,11,ME,May 31
+Asani Miller,29.45,Dexter Regional,9,ME,Jun 10
+Halle Tarbox,29.45,Belfast Area,11,ME,May 30
+Joy Mba,29.46,Thornton Academy,11,ME,Apr 30
+Nya Cousineau,29.46,Buckfield Senior,9,ME,Jun 10
+Bijou Veilleux,29.46,York,9,ME,May 31
+Logan Townsend,29.47,George Stevens,11,ME,May 22
+Emory Higgins,29.49,Bangor,9,ME,Jun 03
+Neve O'Donnell,29.50,Presque Isle,10,ME,May 30
+Charlotte Peasley,29.53,Maine Central Institute,10,ME,Apr 30
+Elizabeth Donovan,29.54,Massabesic,9,ME,May 19
+Mya Landry,29.55,Deering,12,ME,May 07
+Ellie Bisson,29.56,South Portland,11,ME,May 01
+Chloe Heusner,29.57,Brewer,11,ME,May 27
+Tessa White,29.57,Gorham,9,ME,Apr 18
+Amber Pendleton,29.60,Medomak Valley,12,ME,Apr 30
+Lilah Pernal,29.60,Yarmouth,10,ME,Apr 18
+Jemma Bullock,29.61,Dexter Regional,9,ME,May 31
+Madison Greenaway,29.61,Kents Hill,11,ME,May 03
+Madison McMahon,29.62,Gardiner Area,9,ME,May 26
+Beccy Wollenweber,29.62,Hebron Academy,10,ME,May 03
+Arianna Gammon,29.64,Poland Regional,12,ME,May 16
+Thea Kararis,29.64,Cony,12,ME,May 26
+Eva Vancelette,29.66,Windham,10,ME,Apr 24
+Lea Alivizatos,29.66,Old Orchard Beach,10,ME,May 31
+Grace Murphy,29.67,Lake Region,11,ME,May 31
+Addison Gould,29.68,Thornton Academy,10,ME,May 21
+Ines Palomino,29.68,Fryeburg Academy,10,ME,May 12
+Sophie Pidhajecky,29.69,Cape Elizabeth,9,ME,May 16
+Rachelle Melanson,29.73,Hampden Academy,12,ME,May 22
+Lillian Fournier,29.73,Leavitt Area,9,ME,May 30
+Autumn Perry,29.74,Morse,9,ME,May 22
+McKaela McLaughli,29.75,Skowhegan Area,10,ME,May 02
+Gabrielle Finelli,29.75,Maine Central Institute,11,ME,Apr 24
+MaKayla Lunt,29.76,Mount Desert Island,9,ME,Jun 03
+Emma Jones,29.77,Poland Regional,12,ME,May 02
+Phebe Schroeck,29.78,Robert W Traip,10,ME,May 12
+Karah Blunt,29.78,Portland,12,ME,Apr 30
+Alessiah Grant,29.79,Narraguagus,9,ME,May 12
+Isabelle Genovese,29.79,Gardiner Area,10,ME,Apr 30
+Juniper Jacobs,29.83,Camden Hills Regional,11,ME,May 20
+Eleanor Maier,29.85,Scarborough,10,ME,May 13
+Allison Garland,29.85,Thornton Academy,10,ME,May 21
+Delia Fravert,29.88,Scarborough,12,ME,May 13
+Leah Barrett,29.89,Cony,10,ME,May 26
+Gray Freeman,29.92,Mattanawcook Academy,10,ME,May 31
+Ashley Inman,29.92,Bonny Eagle,11,ME,Apr 24
+Benedite Vangu,29.93,South Portland,12,ME,May 01
+Lacey Dinsmore,29.93,Brunswick,10,ME,May 14
+Abigail Pausman,29.96,Falmouth,11,ME,May 06
+Ania Karusewicz,29.97,Hyde,11,ME,May 03
+Maddie Gervais,29.97,Waterville,11,ME,May 30
+Brylee Emmons,29.98,Leavitt Area,9,ME,May 30
+Alex Devens,29.98,Dexter Southfield,12,MA,Apr 26
+Acadia Dunton,29.99,Leavitt Area,9,ME,Apr 24
+Aveiah Langston,30.00,Windham,10,ME,May 13
+Lydia Gordon,30.03,Bangor,9,ME,Jun 03
+Allie VanRyn,30.03,Camden Hills Regional,9,ME,May 01
+Korsen Landfair,30.03,Camden Hills Regional,12,ME,May 14
+Marie Beniot,30.03,Hall-Dale,12,ME,Apr 22
+Ella D'Souza,30.04,North Yarmouth Academy,11,ME,May 27
+Ruby Libby,30.04,Greely,9,ME,May 27
+Makenna Walsh,30.05,Presque Isle,10,ME,May 13
+Haley Alves,30.08,Bangor Christian,11,ME,May 05
+Zora Noble,30.09,Marshwood,10,ME,Apr 29
+Ava Desrochers,30.10,Falmouth,10,ME,May 15
+Izabella Moody,30.10,Noble,10,ME,May 15
+Elyannah Briggs,30.10,Old Town,11,ME,May 03
+Laurelei Kebokere,30.11,South Portland,11,ME,May 01
+Kyarra Bouthot,30.12,Edward Little,9,ME,May 15
+Mackenzie Dean,30.13,Maine Central Institute,9,ME,Apr 24
+Ani Ademi,30.14,Deering,9,ME,May 15
+Gabrielle Dyer,30.15,Thornton Academy,12,ME,May 24
+Nadia Kinsella,30.15,Lawrence,11,ME,May 27
+Emily Saunders,30.17,Maranacook Community,10,ME,May 26
+Madeline Rice,30.17,Bangor,11,ME,May 27
+Norah Waldron,30.21,Islesboro Central,9,ME,May 20
+Megan Ritz,30.21,Freeport,10,ME,May 16
+Lila Mussomeli,30.21,Mt Ararat,9,ME,May 15
+Samara Ogallo,30.22,Bangor,10,ME,May 17
+Olivia Flannery,30.25,Scarborough,11,ME,May 13
+Kaelynn Woodman,30.25,Hermon,10,ME,May 15
+Erica Donnelly,30.26,Gorham,10,ME,Apr 30
+Gabriela Herszkopf,30.27,Falmouth,10,ME,May 06
+Ava Francis,30.28,Lisbon,9,ME,Apr 29
+Ella Morse,30.29,Falmouth,11,ME,May 15
+Makayla Zietala,30.30,York,10,ME,May 31
+Eva Hollerbush,30.31,Cheverus,9,ME,Jun 03
+Ella Soucy,30.31,Gardiner Area,10,ME,Apr 30
+Anabelle Gerow,30.31,Morse,9,ME,Apr 25
+Ellie Arsenault,30.32,Orono,9,ME,May 02
+Lucy Wells,30.33,Lincoln Academy,9,ME,May 30
+Ella Bulter,30.33,John Bapst Memorial,11,ME,May 03
+Rejoyce Kamanda,30.34,Deering,10,ME,Apr 30
+Cadence Firth,30.34,Leavitt Area,9,ME,May 30
+Fiona St. Germain,30.35,Mount Desert Island,12,ME,May 03
+Lillian Fish,30.36,John Bapst Memorial,9,ME,May 03
+Caroline Dutton,30.37,Massabesic,10,ME,Apr 17
+Davanee Kimball,30.37,Winslow,10,ME,May 07
+Eva Poulin,30.38,Monmouth Academy,11,ME,May 15
+Josslyn Dionne,30.39,Windham,10,ME,May 01
+Jamilka Nieves,30.39,South Portland,12,ME,May 13
+Audrey Patz,30.40,Dexter Southfield,12,MA,Apr 26
+Kera Bilodeau,30.44,Winslow,10,ME,May 30
+Maya Fongemie,30.45,Scarborough,9,ME,May 13
+Addison Carbone,30.47,Kennebunk,12,ME,May 21
+Cheyenne Allen,30.48,Mt Abram Regional,10,ME,Apr 29
+Annie Allen,30.49,Central,9,ME,May 05
+Natasha McDonald,30.50,Spruce Mountain,10,ME,May 15
+Bailey Hatch,30.50,Gorham,12,ME,Apr 18
+Nerla Laventure,30.50,Boothbay Region,10,ME,Apr 22
+Stella McCarthy,30.51,Belfast Area,10,ME,May 01
+Violet Westburg,30.52,Falmouth,11,ME,May 06
+Saylor Sasserville,30.52,Greely,11,ME,May 16
+Olive Deyesso,30.54,Scarborough,11,ME,Apr 17
+Matilda Deyesso,30.55,Scarborough,11,ME,Apr 17
+Batool Albraihi,30.56,Cony,11,ME,May 26
+Jaiden Johnson,30.58,Deering,9,ME,Apr 30
+Carmen Davis,30.58,Scarborough,12,ME,Apr 29
+Britta Hancock,30.59,Old Town,9,ME,May 15
+Raya Ba,30.60,Hyde,11,ME,Apr 11
+Daicey Speirs,30.60,North Yarmouth Academy,10,ME,Apr 26
+Afton Mick,30.61,Falmouth,11,ME,Apr 29
+Anna Napolillo,30.61,Hampden Academy,11,ME,May 02
+Clara Deeves,30.64,Greely,10,ME,May 27
+Emma Sullivan,30.65,Yarmouth,9,ME,May 02
+Daisy Murphy,30.66,Lake Region,9,ME,May 31
+MIchaela Grant,30.67,Spruce Mountain,9,ME,May 22
+Sofie Bondarev,30.67,Fryeburg Academy,10,ME,May 31
+Riley Hoyle,30.68,Lisbon,12,ME,Apr 29
+Charlize Hood,30.68,Massabesic,9,ME,May 07
+Lillian Smith,30.68,Skowhegan Area,10,ME,Apr 25
+Kailynn Huntington,30.68,Presque Isle,10,ME,May 13
+Tess Devoll,30.69,Noble,10,ME,May 15
+Ava Perri,30.69,Dexter Southfield,11,MA,Apr 26
+Lyedin Chase-Lessard,30.69,Gray-New Gloucester,11,ME,May 02
+Loralie Grady,30.70,Cony,12,ME,May 07
+Gianna Getchell,30.71,Cheverus,9,ME,Jun 03
+Taylor Hall,30.73,Windham,9,ME,Apr 24
+Zoey Eakright,30.74,Foxcroft Academy,9,ME,Jun 03
+Julia Anderson,30.74,Portland,9,ME,Jun 03
+Sayde Schrum,30.74,Sacopee Valley,12,ME,May 31
+Olivia Austin,30.75,Poland Regional,12,ME,May 09
+Amelia Turner,30.75,John Bapst Memorial,9,ME,Jun 03
+Sofia Cutter,30.75,Greely,9,ME,May 16
+Hilmar Nicolau,30.76,Portland,9,ME,Apr 30
+Caroline Davis,30.76,Falmouth,12,ME,May 15
+Peyton Archibald,30.76,Windham,9,ME,Apr 24
+Caedyn Lipson,30.79,Gray-New Gloucester,10,ME,May 02
+Willoughby Manser,30.83,Noble,11,ME,May 15
+Gwen Bushnell,30.83,Bangor,10,ME,Apr 24
+Emily Lawson,30.85,Hampden Academy,9,ME,May 16
+Lauren Dinsmore,30.86,Edward Little,9,ME,May 24
+Adeline Hancock,30.86,Hebron Academy,10,ME,May 03
+Tayen Smith,30.86,Lisbon,10,ME,Apr 22
+Leah Carroll,30.86,Yarmouth,11,ME,May 16
+Frances DeGeer,30.87,Lincoln Academy,10,ME,May 30
+Cora Saucier,30.89,Biddeford,9,ME,May 15
+Eva Dodge,30.90,Noble,10,ME,May 15
+Pauline Parks-Stamm,30.92,Falmouth,10,ME,May 20
+Ashley Ladd,30.93,Penquis Valley,11,ME,May 02
+Norah Stuart,30.93,Noble,9,ME,May 15
+Alexa Johnson,30.94,Narraguagus,11,ME,May 24
+Addison Schall,30.95,Hampden Academy,10,ME,May 16
+Reese Jones,30.97,Bangor,9,ME,May 27
+Brookelynn Jones,31.02,Nokomis Regional,9,ME,May 26
+Alexis Blue,31.04,Bangor,11,ME,May 17
+Alexis Sweeney,31.06,Old Orchard Beach,10,ME,May 16
+Anne Ebane Athomo,31.06,South Portland,10,ME,May 13
+Makenzie Day,31.08,Hyde,11,ME,May 03
+Ellia Christensen,31.09,South Portland,11,ME,May 01
+Lucy Iovanna,31.10,Marshwood,9,ME,May 22
+Hallye King,31.11,Oceanside,12,ME,May 08
+abigail Sullivan,31.11,Mt Ararat,12,ME,May 15
+Lily Smart,31.12,Messalonskee,10,ME,Apr 24
+Annabell Tabor,31.12,Gray-New Gloucester,9,ME,May 31
+Rachel Grant,31.12,Erskine Academy,9,ME,May 26
+Tiffany Souliere,31.13,Sanford,12,ME,May 13
+Aislyn Beams,31.13,Noble,11,ME,May 15
+Gracie Farrell,31.16,Maranacook Community,11,ME,Apr 22
+Adrianna Bridges,31.16,Fort Fairfield,10,ME,Apr 25
+Alexis Pelletier,31.16,Windham,10,ME,Apr 24
+Sophia Fogg,31.17,John Bapst Memorial,12,ME,May 27
+Annabelle Bachman,31.18,Fryeburg Academy,10,ME,May 16
+Delphia Watchiba,31.18,Portland,10,ME,Apr 17
+Brenna Angevine,31.21,Oxford Hills,9,ME,May 08
+Stephanie Roghelia,31.21,Windham,9,ME,Apr 24
+Lexi Bjornson,31.22,Foxcroft Academy,9,ME,Jun 03
+Wheva Monga,31.22,Portland,9,ME,Apr 17
+Carly Burrows,31.22,Wells,10,ME,May 31
+Brooklyn Lenko,31.22,Madison Area Memorial,10,ME,May 20
+Alexandra Chouinard,31.23,Windham,10,ME,May 13
+Ashley Levy,31.24,Mount Desert Island,10,ME,May 27
+Piper Gagnon,31.25,Fort Kent Community,9,ME,May 26
+Tatianna Sproul,31.25,Bonny Eagle,10,ME,May 15
+Sofia Rosen,31.26,York,10,ME,May 16
+Piper Higgins,31.26,Greely,9,ME,Apr 18
+Lauren Livesay,31.29,Brunswick,9,ME,May 14
+Laney Farrar,31.29,Gray-New Gloucester,12,ME,Apr 18
+Clara Wentling,31.29,Greely,9,ME,May 09
+Madison Christopher,31.30,Gardiner Area,9,ME,Apr 17
+Cindy-Miley Bambini,31.31,Edward Little,9,ME,May 15
+Hali Lavoie-Cantin,31.33,Biddeford,9,ME,Apr 30
+Alina Martin,31.33,Biddeford,11,ME,Apr 30
+Lily Lachance,31.34,Mt Ararat,10,ME,May 01
+Sophia Lee,31.34,Cape Elizabeth,9,ME,May 27
+Eleanor Kmack,31.35,Portland,9,ME,Apr 17
+Deanna Ferris,31.35,Wells,9,ME,May 31
+Jayden McGowan,31.35,Westbrook,10,ME,May 15
+Maya Jacobs,31.38,Boothbay Region,9,ME,May 15
+Blythe Denison,31.40,Kents Hill,11,ME,May 12
+Sophia Budd,31.41,Hall-Dale,9,ME,May 26
+Precious Arabambi,31.42,Brewer,9,ME,Jun 03
+Lorelei Parent,31.42,Oceanside,9,ME,Apr 24
+Daphne Hands,31.43,Maine Central Institute,11,ME,May 07
+Kaylee Bencivenga,31.44,Presque Isle,9,ME,May 13
+Serena Furst,31.44,Spruce Mountain,9,ME,May 15
+Virginyah Stokes,31.45,Mount Desert Island,9,ME,May 22
+Hailey Himes,31.45,Presque Isle,11,ME,Apr 22
+Ambrielle Wallace,31.47,Lisbon,9,ME,Apr 29
+Leah Herrick,31.48,St Dominic Regional,12,ME,May 02
+Lily Peters,31.48,Sanford,10,ME,May 06
+Grace Derosier,31.49,Thornton Academy,9,ME,May 21
+Mackenzie Oiler,31.49,Hermon,11,ME,May 15
+Gabby Hussey,31.51,Wells,9,ME,May 02
+Alexxys Baird,31.52,St Dominic Regional,12,ME,May 16
+Lyssi Yekeh,31.52,Windham,12,ME,Apr 24
+Shaylin Holt,31.52,Spruce Mountain,10,ME,May 22
+Amelia Mills,31.56,Camden Hills Regional,10,ME,May 08
+Lillain Courtois,31.57,Wells,10,ME,May 02
+Olivia Hunsinger,31.57,Hermon,11,ME,May 22
+Cassidy Hjort,31.60,Gorham,9,ME,May 20
+Devan Kennie,31.60,Windham,12,ME,May 07
+Josephine Schafer,31.61,Portland,9,ME,Jun 03
+Jordynn Bilodeau,31.62,St Dominic Regional,12,ME,May 12
+Dakota Shorey,31.63,Orono,11,ME,Apr 24
+Isabelle Clark,31.64,Hampden Academy,10,ME,May 02
+Khloe Watson,31.65,Hermon,9,ME,May 01
+Maddelynn Geary-Bubier,31.67,Morse,9,ME,May 22
+Molly Theriault-Guay,31.68,St Dominic Regional,9,ME,May 02
+Britania Ellis,31.68,Westbrook,11,ME,May 15
+Kaci Presley,31.70,Scarborough,9,ME,May 24
+Elizabeth Adams,31.71,Cape Elizabeth,11,ME,May 16
+Siena Carbone,31.71,Massabesic,9,ME,Apr 17
+Eve Sylvester,31.72,Hermon,11,ME,May 15
+Isabel West-Lander,31.72,Kennebunk,9,ME,May 21
+Madeline Barron,31.74,Kennebunk,11,ME,May 21
+Madelyn Stanwood,31.74,York,10,ME,May 02
+Christella Kidilu Mpinga,31.77,South Portland,9,ME,Apr 18
+Alexis Lavers,31.77,Hyde,12,ME,Apr 04
+Ivy Ouellette,31.77,Gray-New Gloucester,10,ME,May 02
+Adalyn Freeman,31.79,Sumner Memorial,9,ME,May 22
+Haley Glover,31.79,Mountain Valley,11,ME,May 20
+Ella New,31.79,Massabesic,9,ME,May 07
+Gabriell Hall,31.80,Skowhegan Area,10,ME,May 08
+Madyson Spooner,31.81,Presque Isle,10,ME,May 13
+Kyleigh Marcotte,31.81,Spruce Mountain,10,ME,May 22
+Ally Morneault,31.82,Bangor,11,ME,May 17
+Sydney Broadbent,31.82,Windham,11,ME,Apr 24
+Corinne Parker,31.83,John Bapst Memorial,10,ME,Apr 18
+Madelynn Gabri,31.84,Leavitt Area,12,ME,May 14
+Elena Owen,31.84,Yarmouth,9,ME,May 09
+Grace Edstrom,31.85,Biddeford,9,ME,May 15
+Katie Miller,31.85,Central,12,ME,May 05
+Lindie Bolduc,31.86,Nokomis Regional,9,ME,May 26
+Marley Malbon,31.87,Old Town,10,ME,May 03
+Peyton Stevens,31.87,Hermon,9,ME,May 09
+Kylie Gilbert,31.87,Dexter Regional,9,ME,May 09
+Noelle Doughty,31.89,Bangor Christian,9,ME,May 27
+Desire Kissinger,31.89,Portland,10,ME,Apr 17
+Anastasia Deasey,31.90,Biddeford,9,ME,Apr 30
+Madelyn Marks,31.91,Mount Desert Island,11,ME,May 27
+Caitrin Cooley,31.92,Noble,11,ME,May 19
+Charlotte Bemis,31.92,York,9,ME,May 09
+Kendall Ainsworth,31.92,Fort Fairfield,9,ME,May 13
+Alyssa Rodriguez,31.93,Noble,12,ME,May 15
+Claire Pordon,31.94,Sanford,9,ME,May 13
+Callista Courtney,31.96,Hampden Academy,11,ME,May 22
+Kendra Eubanks,31.97,Windham,11,ME,Apr 24
+Penelope Jones,31.97,Mount Desert Island,10,ME,May 16
+Ella Kenney,31.98,Gray-New Gloucester,11,ME,May 02
+Izabel Hamilton,31.99,Skowhegan Area,11,ME,May 16
+Mya Sullivan,31.99,Hermon,11,ME,Apr 25
+Priscilla Smith,31.99,Bangor Christian,11,ME,May 22
+Abby Bixby,31.99,Falmouth,11,ME,May 15
+Rowan Rhodes,31.99,Robert W Traip,11,ME,May 02
+Victoria Edwards,32.00,Oceanside,12,ME,May 08
+Maddy Bridges,32.01,Fort Fairfield,12,ME,Apr 25
+Anna Knights,32.02,Gray-New Gloucester,10,ME,May 02
+Megan Little,32.03,Windham,10,ME,May 20
+Alanah Worth,32.04,Leavitt Area,9,ME,May 14
+Winnie Liu,32.04,Waterville,9,ME,May 27
+Faith DiBiase,32.04,Windham,12,ME,Apr 24
+Riley Hall,32.05,Brunswick,11,ME,May 07
+Cara Sia Yoo,32.05,Fryeburg Academy,12,ME,May 21
+Colby Davis,32.07,Greely,10,ME,May 02
+Riley Stanheiser,32.08,Edward Little,9,ME,Apr 17
+Kylie Hornstra,32.08,Westbrook,11,ME,Apr 18
+Brianna Rosbicki,32.09,Foxcroft Academy,9,ME,Jun 03
+Juliana Fournier,32.09,Gray-New Gloucester,9,ME,May 02
+Bronwynn Crownover,32.10,George Stevens,9,ME,May 03
+Paisley Clukey,32.12,Mountain Valley,12,ME,May 22
+Abigail England,32.12,Massabesic,10,ME,May 19
+Eloise Mooney,32.13,Islesboro Central,10,ME,May 01
+Jade Lamontagne,32.13,Edward Little,11,ME,May 15
+Grace Folsom,32.14,Winthrop,9,ME,Apr 22
+Brynn Boothby,32.15,Fryeburg Academy,9,ME,May 16
+Raegan Eddy,32.17,Boothbay Region,9,ME,May 15
+Kiara Chasse,32.18,Caribou,9,ME,May 26
+Rose Carroll,32.18,Yarmouth,11,ME,Apr 18
+Emily Andrews,32.19,St Dominic Regional,12,ME,May 31
+Elise Bilodeau,32.21,Winthrop,9,ME,May 26
+Layla Boutin,32.22,Dirigo,10,ME,May 15
+Brooke Bellino,32.22,South Portland,9,ME,May 01
+Brianna Ellis,32.22,Westbrook,-,ME,May 15
+Laura Zarko,32.24,Hebron Academy,12,ME,May 12
+Iris Hubbard,32.24,Yarmouth,12,ME,May 27
+Lexus Botting,32.24,Caribou,10,ME,May 27
+Caylee Putek,32.25,Erskine Academy,10,ME,May 01
+Amber Balzarini,32.26,Sumner Memorial,9,ME,May 03
+Ella Fagan,32.26,Falmouth,9,ME,Apr 29
+Janna Pelletier,32.26,Mount Desert Island,10,ME,Apr 18
+Alexis Hamel,32.27,Hampden Academy,9,ME,May 02
+Kendra Weaver,32.27,Brunswick,9,ME,May 07
+Layla Hall,32.28,Oxford Hills,9,ME,May 15
+Oakleigh Morgan,32.30,Oxford Hills,9,ME,May 15
+Meghan Remington,32.30,Bangor Christian,12,ME,May 05
+Kelsey Record,32.30,Greely,9,ME,May 09
+Rowan Dostie-Gray,32.31,Brunswick,11,ME,May 02
+Daniela Lezana,32.31,Greely,9,ME,May 02
+Emma Clavette,32.31,Hermon,9,ME,May 09
+Avery Black,32.33,Portland,11,ME,May 15
+Destiny Wilson,32.34,York,10,ME,May 16
+Emma Gsottschneider,32.34,York,12,ME,Apr 18
+Kristen Morneault,32.35,Bangor,10,ME,May 27
+Laila Louissaint,32.36,Dexter Southfield,9,MA,Apr 26
+Eliana Gray,32.38,Greely,9,ME,May 31
+Marie Stella Ntang Ossavou,32.39,Deering,12,ME,May 15
+Ella Slusher,32.40,Morse,9,ME,May 22
+Zoey Whited,32.40,Cheverus,-,ME,Apr 24
+Abigail Allender,32.41,Massabesic,12,ME,May 19
+Jena Cyr,32.42,Noble,9,ME,May 15
+Emily Cook,32.42,Gray-New Gloucester,9,ME,May 02
+Emma Small,32.42,Hampden Academy,10,ME,May 02
+Sydney DeCourcey,32.44,Greely,10,ME,May 02
+Perola Ferreira,32.45,South Portland,10,ME,May 13
+Viana Tartizio,32.46,Westbrook,9,ME,May 15
+Ashlynn Stitham,32.48,Hermon,12,ME,Apr 25
+Ella Walker,32.48,Bangor Christian,10,ME,May 27
+Addie Potter,32.50,Bangor,10,ME,May 03
+Stella Lawrence,32.52,Hermon,9,ME,Apr 25
+Solana Coy,32.52,Edward Little,12,ME,Apr 17
+Alyssa Marlowe,32.54,Gardiner Area,11,ME,May 26
+Isabella Hicks,32.55,Massabesic,9,ME,May 07
+Maddie Small,32.55,Falmouth,11,ME,May 06
+Isobel Hanson,32.55,Mt Blue,10,ME,May 26
+Isabelle Byer,32.56,Mount Desert Island,11,ME,Apr 18
+Mollie Mathieu,32.58,Biddeford,9,ME,May 13
+Delaney Plowman,32.59,Scarborough,12,ME,May 13
+Charlotte Deveaux,32.59,Gorham,9,ME,Jun 03
+Olivia Robbins,32.60,Belfast Area,10,ME,Apr 25
+Zahra Dutton,32.61,Portland,9,ME,May 15
+Morgan Goodrich,32.63,Yarmouth,11,ME,May 09
+Nina Huber,32.63,Foxcroft Academy,12,ME,May 05
+Brooke Tuttle,32.66,Windham,9,ME,May 13
+Kenzee English,32.66,Scarborough,10,ME,May 13
+Rachel Wilson,32.67,Fort Kent Community,11,ME,Apr 25
+Kayleigh Hallett,32.67,Biddeford,11,ME,Apr 30
+Nyamal Reath,32.68,Gray-New Gloucester,9,ME,May 16
+Kylee Cunningham,32.69,Bangor,10,ME,May 17
+Aja Marzilli,32.69,Orono,12,ME,Apr 24
+Madison Bailey,32.70,Scarborough,9,ME,Apr 17
+PHEONIX LEE,32.72,Dirigo,11,ME,May 26
+Addie Fiandaca,32.72,Sanford,12,ME,May 19
+Emma Lawrence,32.73,Westbrook,11,ME,May 15
+Shirin Sethia,32.76,Scarborough,10,ME,May 24
+Hailee Marshall,32.77,Piscataquis Community,10,ME,Apr 24
+Brynn Fortier,32.78,Falmouth,11,ME,May 20
+Dakotah Grover,32.79,Noble,11,ME,May 19
+Peyton Berube,32.79,Lawrence,11,ME,Apr 17
+Jenna Plummer,32.81,Greely,11,ME,May 16
+Chloe French,32.82,Erskine Academy,12,ME,May 14
+Molly Bryant,32.84,Gray-New Gloucester,9,ME,May 21
+Margaret Johnson,32.84,Lake Region,10,ME,May 31
+Hadleigh Bouchard-Wasson,32.84,Central,10,ME,Apr 18
+Lillian Radonis,32.86,St Dominic Regional,11,ME,May 16
+Tizita Rackmales,32.86,Freeport,11,ME,Apr 18
+Jillian Leutje,32.87,Freeport,11,ME,May 09
+Isabella Farrington,32.88,Erskine Academy,10,ME,May 08
+Praise Shongo,32.89,South Portland,9,ME,Apr 18
+Larissa Eickman,32.89,Thornton Academy,10,ME,Apr 30
+Kiley Heeren,32.90,Freeport,11,ME,May 16
+Ava Koumou-Nete,32.90,Poland Regional,11,ME,May 09
+Mya Knowlton,32.91,John Bapst Memorial,9,ME,May 12
+Destiny Peter,32.91,South Portland,11,ME,May 01
+Lilla Merrithew,32.93,Waterville,9,ME,May 07
+Caysie Moore,32.95,Penquis Valley,11,ME,Apr 25
+Rhian Fortuna,32.95,Lewiston,9,ME,Apr 24
+Soleil Alaari,32.96,Portland,10,ME,Apr 30
+Madison Shepard,33.00,Thornton Academy,10,ME,May 24
+Ana Pendleton,33.01,Yarmouth,9,ME,May 02
+Sarah Fish,33.02,Bangor,11,ME,May 03
+Annika Shupe,33.02,Scarborough,9,ME,Apr 29
+Mia Beers,33.02,Scarborough,11,ME,May 13
+Hope LeMoine,33.03,Mount Desert Island,12,ME,May 03
+Gabrielle Poulin,33.04,Messalonskee,12,ME,May 27
+Alli Shulenski,33.04,Madison Area Memorial,10,ME,May 15
+Eliza Smith,33.04,North Yarmouth Academy,9,ME,May 27
+Arielle Fitch,33.05,Hermon,10,ME,May 01
+Lindsay Deschesne,33.05,Fort Fairfield,9,ME,May 13
+Ashtyn Gagnon,33.06,Sanford,10,ME,May 13
+Emma Rackleff,33.08,Messalonskee,10,ME,May 27
+Adaya Ganong,33.11,Lisbon,10,ME,Apr 29
+Gabrielle Smetana,33.12,Scarborough,10,ME,May 24
+Desirae Pacheco,33.12,Hampden Academy,10,ME,May 16
+Esmae Melanson,33.12,Hampden Academy,9,ME,May 16
+Anda Hoag,33.13,Morse,9,ME,May 01
+Ruby Mendoza,33.17,Portland,9,ME,Apr 17
+Emma Kelly,33.17,Fort Fairfield,9,ME,May 13
+Marilyn Williams,33.18,Greely,9,ME,May 02
+Annabelle Harris,33.22,Windham,10,ME,Apr 24
+Hayley Lavalley,33.23,Nokomis Regional,11,ME,Apr 24
+Ava Marsh,33.24,Wells,10,ME,May 27
+Audrey Soule,33.24,Greely,9,ME,May 27
+Naomi Biquieto,33.25,Edward Little,9,ME,May 24
+Macee Perkins,33.26,Penquis Valley,9,ME,May 27
+Lexie Beach,33.32,Windham,9,ME,May 07
+Lucy Laratonda,33.33,Noble,9,ME,May 15
+Clara Zelie,33.34,Mt Abram Regional,12,ME,May 26
+Ayda Sonnenberg,33.36,Orono,12,ME,May 27
+Kiley LaFollette,33.37,Dirigo,10,ME,May 26
+Leana Robbins,33.38,Windham,10,ME,Apr 24
+Lila Stanly,33.38,Windham,11,ME,Apr 24
+Reese Crosman,33.42,Washington Academy,12,ME,Apr 24
+Despina Pashos,33.44,Brunswick,11,ME,May 07
+Amelia Drake,33.46,Houlton,12,ME,May 27
+Leylah Manning,33.47,Spruce Mountain,12,ME,May 20
+Izabel Yaxley,33.47,York,9,ME,May 16
+Evy Kokmeyer,33.48,Gardiner Area,9,ME,May 08
+Savannah Collin,33.48,Fort Kent Community,11,ME,May 13
+Madison McManus,33.49,Madison Area Memorial,11,ME,Apr 29
+Abigail Provost,33.50,Edward Little,10,ME,May 15
+Olivia Wood,33.53,Bangor,10,ME,May 17
+Eliana Martinez,33.54,Lisbon,9,ME,Apr 29
+Jessica Beadnell,33.58,Massabesic,11,ME,May 07
+Araceli Luke,33.58,Edward Little,11,ME,May 24
+Hazel Kimball,33.59,George Stevens,9,ME,May 16
+Abigail Bishop,33.60,Bucksport,10,ME,May 01
+Rylee Hughes,33.60,Skowhegan Area,9,ME,May 02
+Brenna Carlow,33.61,Presque Isle,9,ME,May 13
+Emma Berube,33.65,Lisbon,9,ME,May 20
+Lilly LaVerdiere,33.66,Lisbon,9,ME,May 15
+Lydia Han,33.67,Limestone Community/MSSM,9,ME,May 13
+Kiera Young,33.68,Mount Desert Island,10,ME,May 27
+Skyelar Morgan,33.69,Old Town,9,ME,May 27
+Emi Runge,33.69,Yarmouth,11,ME,May 02
+Eden Tyler,33.72,Camden Hills Regional,9,ME,May 20
+Ava Shoopman,33.74,Penquis Valley,10,ME,Apr 25
+Griselda Munoz,33.75,Portland,9,ME,Jun 03
+Carleigh Merriman,33.75,Greely,7,ME,May 16
+Dalayna Mincey,33.76,Houlton,10,ME,May 13
+Tessa Ferguson,33.76,Old Orchard Beach,-,ME,May 16
+Niya Hector,33.78,Waterville,12,ME,May 07
+Malay Tagalicud,33.78,Erskine Academy,10,ME,May 08
+Brackett-Anne Clark,33.80,Fryeburg Academy,11,ME,May 02
+Izzy Stone,33.81,Gardiner Area,9,ME,Apr 17
+Julianna Libby,33.84,Massabesic,11,ME,Apr 17
+Kaylee Webber,33.84,Wells,9,ME,May 02
+Emma Tremblay,33.85,Kennebunk,10,ME,May 13
+Eleanor Bryant,33.86,Deering,11,ME,Apr 30
+Emma Gallant,33.87,Mountain Valley,10,ME,May 14
+Kiala Samata,33.89,Deering,10,ME,May 15
+Cora Lester,33.91,Mount Desert Island,11,ME,May 27
+Ella Haynie,33.92,Madison Area Memorial,12,ME,Apr 22
+Delia Withee,33.92,Messalonskee,11,ME,Apr 24
+Alivia Davis,33.94,Edward Little,9,ME,May 24
+Laraine Remington,33.94,Bangor Christian,10,ME,Apr 17
+Mariamna Khomenko,33.94,Boothbay Region,9,ME,May 26
+Natalee Underwood,33.97,Old Town,9,ME,Apr 25
+Jemma Holden,34.02,Mt Ararat,9,ME,May 01
+Carley DeCourcey,34.04,Greely,10,ME,May 27
+Aaliyah Ciriello,34.04,Edward Little,9,ME,Apr 17
+Braedyn Parker,34.04,Winslow,11,ME,May 27
+Mirtis Ndombe Lema,34.08,Deering,11,ME,May 07
+Addison Caldwell,34.08,Bangor Christian,10,ME,Apr 17
+Hattie Cogswell,34.10,Presque Isle,11,ME,May 17
+Hana Garriepy,34.11,Kennebunk,10,ME,May 21
+Ella Cote,34.12,Dirigo,11,ME,May 15
+Esperanza Kunieki,34.16,South Portland,11,ME,May 01
+Maya Helean,34.19,Brunswick,11,ME,May 07
+Julianna Tarantino,34.21,Gardiner Area,9,ME,May 26
+Ana Kelly,34.21,Falmouth,11,ME,Apr 29
+Adolfina Dianzenza,34.23,Portland,10,ME,Apr 30
+Kaydence Daigle,34.24,Dirigo,9,ME,May 26
+Acie Tshitenge,34.24,South Portland,10,ME,May 13
+Alexa Andaya,34.26,George Stevens,10,ME,Apr 17
+Arita Walls,34.31,Falmouth,9,ME,May 06
+Natalie Cameron,34.33,Deering,9,ME,May 15
+Elisabeth Keith,34.35,Gray-New Gloucester,9,ME,May 02
+Audrina Smith,34.38,Gray-New Gloucester,9,ME,May 09
+Raykesha Quinones,34.39,Old Town,12,ME,May 15
+Gabby Patrick,34.41,Portland,10,ME,May 15
+Nicky Thalia,34.42,South Portland,9,ME,May 01
+Samantha Murphy,34.43,South Portland,11,ME,Apr 18
+Lucy Coryell,34.45,Maranacook Community,9,ME,May 15
+Addison Smith,34.45,Buckfield Senior,10,ME,May 20
+Madalena Nginamau-Benvindo,34.47,South Portland,10,ME,Apr 18
+Rohan Gonsior,34.48,Mt Ararat,10,ME,May 15
+Josie Qualey,34.50,John Bapst Memorial,10,ME,May 16
+Mareina Lavallee,34.52,Windham,9,ME,Apr 24
+Chloe Flynn,34.52,Brunswick,10,ME,May 22
+Lizzy Lord,34.53,Cony,10,ME,Apr 24
+Mia Fishbein,34.54,Cape Elizabeth,9,ME,May 27
+Zeila Monterio,34.57,South Portland,11,ME,Apr 18
+Cassidy Decker,34.59,Mt Ararat,10,ME,May 08
+Elieza Murray,34.61,Mt Ararat,10,ME,May 15
+Patricia Kianga,34.62,South Portland,10,ME,May 01
+Mary St. Germain,34.71,Maranacook Community,9,ME,Apr 22
+Amelia Maillet,34.73,Dirigo,11,ME,May 15
+Carmella Fraser,34.74,Lincoln Academy,10,ME,May 08
+Shea Rhode,34.75,Portland,9,ME,Jun 03
+Kloe Thomas,34.77,Oxford Hills,9,ME,May 15
+Ava Wardwell,34.80,Windham,12,ME,May 13
+Angel Katanga,34.80,Thornton Academy,9,ME,Apr 18
+Larkin Speed,34.84,Bangor,9,ME,May 17
+Isa Lynch,34.85,Mount Desert Island,11,ME,May 22
+Kaylie Rousseau,34.85,Windham,11,ME,May 01
+Riley Phillips,34.85,Hebron Academy,10,ME,Apr 26
+Elyssa Yannelli,34.89,Spruce Mountain,9,ME,May 20
+Veeksha Vumma,34.90,Yarmouth,9,ME,May 02
+Summer Duarte,34.94,Yarmouth,11,ME,May 02
+Jordyn Brown,34.97,Fryeburg Academy,9,ME,May 12
+Sarah Lupien,34.97,South Portland,9,ME,May 13
+Chloe Inzerillo,34.98,Windham,9,ME,May 01
+Penelope Ramos,34.99,South Portland,9,ME,Apr 18
+Sarah Ayinkamiye,34.99,Lewiston,10,ME,May 08
+Annie Haskins,34.99,Bangor,9,ME,May 09
+Trista Berube,35.00,Biddeford,12,ME,May 13
+Isabella Sutherland,35.01,Mattanawcook Academy,12,ME,May 27
+Mia Sherwood,35.03,Mt Abram Regional,9,ME,Apr 29
+Abrey White,35.04,Hampden Academy,9,ME,Jun 03
+Lexi Phipps,35.09,Madison Area Memorial,9,ME,May 20
+Mackenzie Hallett,35.09,Skowhegan Area,11,ME,Apr 25
+Hope Handley,35.10,Gray-New Gloucester,11,ME,May 02
+Dixie Ramp,35.15,Central,9,ME,Apr 18
+Angelina Wyman,35.16,Morse,9,ME,May 22
+Cate Gustin,35.20,Winthrop,11,ME,May 26
+Galyn Griffin,35.20,Dexter Southfield,11,MA,Apr 26
+Ashleigh Baker,35.21,Hampden Academy,10,ME,May 16
+Phoebe Strong,35.22,Hampden Academy,10,ME,Apr 24
+Dorothy Leeman,35.23,Erskine Academy,9,ME,May 26
+Olivia Sharpe,35.26,Hampden Academy,12,ME,May 02
+Alyssa Nguyen,35.26,Biddeford,11,ME,Apr 30
+Katherine Garard,35.27,Oxford Hills,10,ME,May 01
+Josie McAleney,35.28,South Portland,11,ME,Apr 18
+Nezzy Veilleux,35.31,Erskine Academy,9,ME,May 01
+Gudrun Ziemer,35.32,Gardiner Area,9,ME,May 08
+Katie Woodruff,35.35,Brunswick,9,ME,May 07
+Emma Stevens,35.43,Madison Area Memorial,10,ME,Apr 22
+Amilliana Marquis,35.44,Marshwood,10,ME,May 22
+Abiague Zuleyni,35.44,Bonny Eagle,9,ME,May 15
+Angie Willette,35.48,Mattanawcook Academy,12,ME,Apr 25
+Ryley Wright,35.50,Spruce Mountain,9,ME,May 15
+Anne Dostie,35.51,Limestone Community/MSSM,10,ME,May 17
+Josephine Shea,35.57,Lincoln Academy,10,ME,May 08
+Alex Compinski,35.65,Maranacook Community,10,ME,Apr 29
+Laura Callaghan,35.65,Deering,11,ME,May 07
+Luliana Monteiro,35.73,Biddeford,11,ME,Apr 30
+Emily Foster,35.73,Cony,10,ME,Apr 30
+Tessa Owens,35.73,Central,9,ME,May 05
+Amanda Neumann,35.73,Gorham,9,ME,Apr 30
+Viviane Campos,35.80,Deering,11,ME,May 15
+Ava Kutschera,35.80,Kents Hill,11,ME,Apr 11
+Sophia Howard,35.80,Central,9,ME,Apr 18
+Bridgette White,35.80,Nokomis Regional,11,ME,Apr 24
+Elliott Kennedy,35.90,Wells,10,ME,May 02
+Faduma Nur,35.93,Portland,10,ME,Apr 17
+Merville Uwinzea,35.94,Edward Little,9,ME,Apr 17
+Chloe Boma,35.97,Caribou,10,ME,May 03
+Amelia Walker,36.01,Sanford,10,ME,May 13
+Sara Fournier,36.04,Monmouth Academy,9,ME,Apr 29
+Branwyn Obptande,36.06,Lisbon,9,ME,May 22
+Elsa Feegel,36.10,Mt Blue,10,ME,May 15
+Zoe Zimmerman,36.11,Greely,9,ME,May 02
+Bella Kilton,36.14,Mt Blue,9,ME,May 15
+Min Chae Kim,36.14,Fryeburg Academy,12,ME,May 12
+Emma Byers,36.16,Central,12,ME,Apr 18
+Lauren Hazard,36.16,Falmouth,12,ME,May 20
+Clara McDuffie,36.17,Greely,10,ME,May 02
+MacKenzie Daigle,36.18,Dirigo,10,ME,May 26
+Pamela Salamanca,36.22,South Portland,10,ME,May 01
+Mylord Tshilombo,36.22,South Portland,10,ME,May 01
+Julia Travis,36.32,South Portland,10,ME,May 01
+Amber Sale,36.36,Mattanawcook Academy,11,ME,May 09
+Mackenzie Van Nest,36.38,Oxford Hills,11,ME,May 08
+Ella Coombs,36.38,South Portland,9,ME,May 01
+Anastasia Jalbert,36.39,St Dominic Regional,10,ME,May 02
+Kiara Bradford,36.39,South Portland,9,ME,May 01
+Leah Ott,36.47,Noble,9,ME,May 15
+Nora Johnson,36.47,Leavitt Area,9,ME,Apr 24
+Angela Pedro,36.49,South Portland,9,ME,May 13
+Arianna Pighi,36.57,Washington Academy,12,ME,May 24
+Paige Gosselin,36.60,Washington Academy,9,ME,May 16
+Kaidyn Leclair,36.60,Sanford,9,ME,May 13
+Natalie Reichardt,36.69,Gray-New Gloucester,-,ME,May 09
+Abigail Rounds,36.72,Winthrop,12,ME,Apr 29
+Candela Alvarez,36.83,Washington Academy,10,ME,May 24
+Josie Morin,36.83,Thornton Academy,12,ME,May 24
+Arianna Hodsdon,36.86,Morse,12,ME,May 01
+Aaliyah Pomerleau,36.90,Boothbay Region,9,ME,Apr 29
+Halle Bohn,37.02,Wells,9,ME,May 16
+Sophia Atherton,37.04,Windham,9,ME,May 20
+Lily Thibault,37.19,St Dominic Regional,11,ME,May 02
+Isabella Robbins,37.21,Caribou,9,ME,May 13
+Melonie Lapointe,37.30,Caribou,11,ME,May 26
+Kayla Giroux,37.31,Winslow,9,ME,Apr 24
+Katrina Modrusan,37.49,Hermon,10,ME,May 27
+Cariana Rollins,37.51,Spruce Mountain,12,ME,Apr 22
+Ella Caron,37.53,Biddeford,9,ME,Apr 17
+Kylie Nota,37.59,Leavitt Area,9,ME,Apr 24
+Cristina Dos Santos,37.64,South Portland,9,ME,Apr 18
+Tatyanna Johnson,37.66,Westbrook,11,ME,May 15
+Kaylie McCauley,37.68,Biddeford,10,ME,May 13
+Jasmine Dunlap,37.74,Lewiston,9,ME,May 08
+Aaliyah Bush,37.82,Fryeburg Academy,9,ME,May 12
+Bella Lavigne,37.91,Massabesic,9,ME,May 19
+Annora Ferris,38.03,Wells,10,ME,May 02
+Scarlett Winter,38.03,Maranacook Community,9,ME,Apr 29
+Maricelma Adao Ventura,38.04,Brunswick,9,ME,May 07
+Channmolica Rith,38.08,Westbrook,9,ME,Apr 18
+Rachael Meader,38.41,Freeport,11,ME,Apr 18
+Anna Stasiuk,38.42,Fryeburg Academy,12,ME,May 12
+Monique Palaba,38.43,Brunswick,10,ME,May 02
+Elizabeth Ferero,38.48,Lisbon,10,ME,May 15
+Gloria Sebit,38.57,Biddeford,12,ME,May 15
+Emma Fournier,38.60,Fryeburg Academy,9,ME,May 16
+Rhianna Duval,38.61,Mattanawcook Academy,10,ME,May 02
+Raven Siegenthaler,38.67,Noble,9,ME,May 01
+Emily Green,38.68,Sumner Memorial,11,ME,May 22
+Bella Durost,38.71,South Portland,9,ME,Apr 18
+Lydia Cleaves,38.76,Wells,10,ME,May 02
+Kandace Bowden-Fuller,38.79,Edward Little,12,ME,Apr 17
+Asmaa Dubow,38.85,Deering,10,ME,May 15
+Kaley Whitman,38.92,Houlton,9,ME,May 27
+Denise Frost,39.07,Bangor Christian,10,ME,Apr 17
+Lilah Bell,39.12,Penquis Valley,12,ME,Apr 25
+Emry Cady,39.15,Gardiner Area,10,ME,Apr 17
+Victoria Magana,39.18,Portland,9,ME,Apr 17
+Paradis Ntentula,39.19,Portland,9,ME,Apr 30
+Jurnee Hierrezuelo,39.20,Cony,9,ME,Apr 24
+Bella McDonald,39.24,Hermon,10,ME,May 22
+Luisa Simpson,39.32,Falmouth,10,ME,Apr 18
+Olivia Whittaker,39.40,Boothbay Region,9,ME,May 20
+Chau Ngyuen,39.49,Boothbay Region,10,ME,May 15
+Jodie Leboua,39.77,Brunswick,9,ME,May 07
+Jayden Gagnon,39.82,Freeport,10,ME,May 31
+Charlie Dube,40.41,Waterville,11,ME,May 07
+Rachel Morse,40.52,Lisbon,10,ME,May 15
+Farhiya Ahmed,40.65,South Portland,9,ME,May 01
+Suyeon Jin,40.65,Maine Central Institute,10,ME,Apr 30
+Neptune Martin,40.89,Lincoln Academy,11,ME,May 22
+Abby Broadbent,40.94,Lisbon,11,ME,May 20
+Katie Johnson,41.05,Spruce Mountain,12,ME,May 22
+Gracia Kodila,41.20,Deering,-,ME,May 15
+Lily Jackson,41.34,Mt Blue,10,ME,Apr 30
+Alivia Olson,41.40,Windham,11,ME,Apr 24
+Gabriella Canas,41.46,South Portland,10,ME,Apr 18
+Suzanne Nzeba,41.77,Brunswick,10,ME,May 02
+Tamarah Ntoranyi,41.84,South Portland,10,ME,May 01
+Sophia McGraw,42.03,Mt Blue,9,ME,Apr 30
+Samira Manta,43.10,Brunswick,10,ME,May 02
+Caitlyn Halpin,43.48,Old Orchard Beach,10,ME,May 16
+Audrey Seddon,43.54,Greely,10,ME,May 09
+Ruqaya Al-Najafi,44.53,Portland,9,ME,Apr 17
+Aveale Sibley,45.01,Lake Region,9,ME,Apr 18
+Wasp Maeve Harlow,45.91,Fryeburg Academy,11,ME,May 21
+Grace Mears,56.93,Wells,11,ME,May 12
+Eve Skoletsky,1:03.47,George Stevens,12,ME,May 16

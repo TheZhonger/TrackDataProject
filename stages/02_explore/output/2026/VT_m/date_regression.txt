@@ -1,0 +1,15 @@
+/Users/dzhong/Documents/Track Project/stages/02_explore/dateRegression.py:244: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+fitting top 1000 times per event
+
+ event      n      s/day     s/week   intercept      R2     RMSE
+----------------------------------------------------------------
+  100r    601   -0.01711    -0.1198      14.229  0.0569    1.261
+  200r    481   -0.05802    -0.4061      30.531  0.0927    2.778
+  400r    417   -0.10816    -0.7571      68.279  0.0910    6.404
+  800r    307   -0.49962    -3.4973     177.131  0.1621   16.800
+ 1500r    317   -0.15932    -1.1152     317.831  0.0054   41.469
+
+intercept = predicted time (s) on 2026-03-16
+slopes move with the cutoff -- run --sweep to see by how much
+saved -> /Users/dzhong/Documents/Track Project/stages/02_explore/output/2026/VT_m/date_regression.png

@@ -1,0 +1,11 @@
+event,sex,dataset,n_states,n_athletes,n_multi_season,bootstrap,n_before_fence,n,rp_sensitivity,u_sec,N_u,zeta,xi,xi_ci_lo,xi_ci_hi,sigma,implied_wall_s,fastest_s,wall_margin_s,wall_ci_lo,wall_unbounded_frac,wall_ci_hi,rp_of_fastest,rp_identified,threshold_source,converged,plateau,under_collected
+100m,m,2026,9,28686,0,rows,29013,28686,1.0114,11.91,5664,0.197448,-0.3475,-0.3641,-0.3323,0.5343,10.372,10.44,0.068,10.332,0.0,10.413,40722,False,shape plateau (ForwardStop unusable),True,xi flat at -0.334,-
+100m,f,2026,9,25101,0,rows,25205,25101,1.0041,13.76,4669,0.186009,-0.2803,-0.3237,-0.2664,0.7145,11.211,11.27,0.059,11.121,0.0,11.467,3721176,False,shape plateau FALLBACK -- nothing converged,False,sliding xi -- no plateau,-
+200m,m,2026,9,26179,0,rows,26414,26179,1.009,24.04,4309,0.164598,-0.3153,-0.3525,-0.3017,1.0479,20.716,20.77,0.054,20.62,0.0,20.941,2933155,False,shape plateau FALLBACK -- nothing converged,False,sliding xi -- no plateau,-
+200m,f,2026,9,23393,0,rows,23516,23393,1.0053,26.449,922,0.039413,-0.1984,-0.2613,-0.1581,0.8347,22.243,23.03,0.787,21.252,0.0,23.104,118149,False,ForwardStop,True,sliding xi -- no plateau,-
+400m,m,2026,9,18625,0,rows,18769,18625,1.0077,51.316,948,0.050899,-0.2501,-0.3051,-0.2074,1.4491,45.523,46.34,0.817,44.697,0.0,46.373,49425,False,ForwardStop,True,sliding xi -- no plateau,-
+400m,f,2026,9,14810,0,rows,14900,14810,1.0061,60.86,1091,0.073666,-0.2366,-0.2987,-0.1994,2.3091,51.101,52.14,1.039,49.785,0.0,52.68,175184,False,ForwardStop,True,sliding xi -- no plateau,-
+800m,m,2026,9,16877,0,rows,16959,16877,1.0049,119.49,665,0.039403,-0.1981,-0.2623,-0.1294,2.9068,104.818,109.11,4.292,98.904,0.0,107.731,12559,False,ForwardStop,True,sliding xi -- no plateau,-
+800m,f,2026,9,14027,0,rows,14074,14027,1.0034,136.84,232,0.01654,-0.0945,-0.244,-0.0038,3.2935,101.988,121.84,19.852,-inf,0.0525,121.799,23337,False,ForwardStop,True,sliding xi -- no plateau,-
+1600m,m,2026,9,15482,0,rows,15543,15482,1.0039,265.646,433,0.027968,-0.2046,-0.3979,-0.1473,6.7547,232.625,237.5,4.875,222.054,0.0,246.224,412023,False,ForwardStop,True,sliding xi -- no plateau,-
+1500m,f,2026,9,10467,0,rows,10508,10467,1.0039,282.044,173,0.016528,-0.1298,-0.3427,-0.0249,7.1322,227.108,250.998,23.89,-inf,0.025,257.887,36927,False,ForwardStop,True,sliding xi -- no plateau,-

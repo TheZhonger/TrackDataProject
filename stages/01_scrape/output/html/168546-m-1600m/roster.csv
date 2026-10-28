@@ -1,0 +1,101 @@
+rank,athlete_id,name,team,grade,state,rank_mark,rank_date,href
+1,21356408,Stephen Sziebert,Bellarmine College Prep,12,CA,4:02.67,Jun 04,/athlete/21356408/track-and-field
+2,9138518,Maximo Zavaleta,Martin Luther King,12,CA,4:02.78,May 30,/athlete/9138518/track-and-field
+3,23597169,Aidan Antonio,Woodbridge,11,CA,4:03.28,May 30,/athlete/23597169/track-and-field
+4,32606565,Cooper Stream,Vacaville,11,CA,4:06.03,Mar 28,/athlete/32606565/track-and-field
+5,21239192,Josiah Bowman,Sage Creek,12,CA,4:06.22,Apr 17,/athlete/21239192/track-and-field
+6,21183739,Krish Desai,Mira Costa,12,CA,4:06.67,May 30,/athlete/21183739/track-and-field
+7,21839793,Cam Yarbrough,Del Norte,12,CA,4:06.84,May 29,/athlete/21839793/track-and-field
+8,21118421,Vin Krueger,Oaks Christian,12,CA,4:06.90,May 16,/athlete/21118421/track-and-field
+9,32800196,Cooper Castleberry,Poway,12,CA,4:07.22,Apr 17,/athlete/32800196/track-and-field
+10,21123062,Jace Deledonne,Poly (Riverside),12,CA,4:07.53,May 16,/athlete/21123062/track-and-field
+11,23612260,Lucas Alberts,Jesuit,11,CA,4:07.61,Apr 04,/athlete/23612260/track-and-field
+12,21856705,Drake Hoferer,Jesuit,12,CA,4:07.63,May 29,/athlete/21856705/track-and-field
+13,32783860,Connor Bilodeau,Jesuit,11,CA,4:07.83,May 29,/athlete/32783860/track-and-field
+14,27278293,Blake Sigworth,Palos Verdes,12,CA,4:08.01,May 29,/athlete/27278293/track-and-field
+15,21176112,Lyle Mideiros,Claremont,12,CA,4:08.31,Apr 17,/athlete/21176112/track-and-field
+16,30123442,Henry Hauser,Menlo,11,CA,4:08.42,May 29,/athlete/30123442/track-and-field
+17,29743273,Jonah Vasquez,Cathedral,12,CA,4:08.44,May 16,/athlete/29743273/track-and-field
+18,21301448,Ernesto Jalomo,Palisades Charter,12,CA,4:08.54,May 29,/athlete/21301448/track-and-field
+19,23111226,Peter Kendall,Twelve Bridges,12,CA,4:08.86,May 29,/athlete/23111226/track-and-field
+20,19672142,Michael Scarince,South Pasadena,11,CA,4:08.94,May 16,/athlete/19672142/track-and-field
+21,23578095,Matthew Ogilvie,Jesuit,-,CA,4:09.25,Jun 21,/athlete/23578095/track-and-field
+22,26341524,Mario Montoya,Redondo Union,10,CA,4:09.62,Apr 04,/athlete/26341524/track-and-field
+23,26419700,Elias Thronson,Davis,10,CA,4:09.67,May 02,/athlete/26419700/track-and-field
+24,28354926,Kyle Jakary,Jesuit,12,CA,4:09.95,May 23,/athlete/28354926/track-and-field
+25,25465486,Marcus Salinas,Clovis East,12,CA,4:10.01,May 29,/athlete/25465486/track-and-field
+26,29129885,Evan Chopra,Menlo-Atherton,11,CA,4:10.19,May 16,/athlete/29129885/track-and-field
+27,21119926,Caleb Burton,Crescenta Valley,12,CA,4:10.25,May 09,/athlete/21119926/track-and-field
+28,26446543,Elijah Medina,Redlands East Valley,10,CA,4:10.25,May 23,/athlete/26446543/track-and-field
+29,21708902,Ryan Fitzpatrick,Nueva,12,CA,4:10.37,May 16,/athlete/21708902/track-and-field
+30,23561317,Alejandro Mejia-Hidalgo,Beyer,11,CA,4:10.39,May 23,/athlete/23561317/track-and-field
+31,26334017,Caden Ehrhorn,Campolindo,10,CA,4:10.61,Apr 04,/athlete/26334017/track-and-field
+32,21104325,Owen Abbott,Dos Pueblos,12,CA,4:10.74,May 23,/athlete/21104325/track-and-field
+33,24322067,Adrian Cantu,Saugus,11,CA,4:11.30,Apr 04,/athlete/24322067/track-and-field
+34,23631452,Mattheus Dos Santos,San Clemente,11,CA,4:11.43,Mar 14,/athlete/23631452/track-and-field
+35,21222420,Aiden Zavala,Woodbridge,12,CA,4:11.60,Mar 28,/athlete/21222420/track-and-field
+36,21118702,Luke Friedl,J Serra Catholic,12,CA,4:11.72,May 23,/athlete/21118702/track-and-field
+37,26404954,Arizechukwu Nwosu,Oaks Christian,11,CA,4:11.75,May 16,/athlete/26404954/track-and-field
+38,23538320,Hugh Heyer,McClatchy,11,CA,4:11.86,Mar 06,/athlete/23538320/track-and-field
+39,21104340,Ashton Smedley,Dos Pueblos,12,CA,4:11.87,Mar 21,/athlete/21104340/track-and-field
+40,21104330,Cullen Gully,Dos Pueblos,12,CA,4:11.91,May 23,/athlete/21104330/track-and-field
+41,26492942,Noel Huato,Del Oro,12,CA,4:12.01,Apr 17,/athlete/26492942/track-and-field
+42,23686882,Finn Harrington,Tamalpais,12,CA,4:12.15,May 29,/athlete/23686882/track-and-field
+43,25986214,Alex van Veen,Granada,10,CA,4:12.32,May 29,/athlete/25986214/track-and-field
+44,32606566,Jaxon Northcutt,Mt Carmel,11,CA,4:12.47,May 08,/athlete/32606566/track-and-field
+45,23538329,Landon Warriner,McClatchy,11,CA,4:12.54,Apr 25,/athlete/23538329/track-and-field
+46,27212228,Cooper Barr,Placer,12,CA,4:12.58,Mar 06,/athlete/27212228/track-and-field
+47,21213139,Oliver Hunter,Dana Hills,12,CA,4:12.62,Mar 28,/athlete/21213139/track-and-field
+48,24348584,Derek Luna,Rio Mesa,11,CA,4:12.63,May 16,/athlete/24348584/track-and-field
+49,23629242,Diego Ochoa,McFarland,12,CA,4:12.72,Apr 17,/athlete/23629242/track-and-field
+50,26240229,Owen Souther,Canyon (Canyon Country),12,CA,4:12.80,Apr 11,/athlete/26240229/track-and-field
+51,23667118,Cameron Jones,Maria Carrillo,11,CA,4:12.82,May 16,/athlete/23667118/track-and-field
+52,21183737,Ryan Burger,Mira Costa,12,CA,4:12.84,Mar 14,/athlete/21183737/track-and-field
+53,21174480,Nathan Bamford,Scripps Ranch,12,CA,4:12.87,May 07,/athlete/21174480/track-and-field
+54,33029812,Sebastian Taylor,Bishop O'Dowd,12,CA,4:13.10,Apr 11,/athlete/33029812/track-and-field
+55,23472464,Luis-Mateo Reyes,Chino Hills,11,CA,4:13.23,Mar 28,/athlete/23472464/track-and-field
+56,21155076,Cooper Lowe,Monte Vista,12,CA,4:13.34,Mar 28,/athlete/21155076/track-and-field
+57,21299320,Nolan Calder,San Juan Hills,12,CA,4:13.59,May 23,/athlete/21299320/track-and-field
+58,21139967,Nathan Wilber,Cathedral Catholic,12,CA,4:13.71,Mar 28,/athlete/21139967/track-and-field
+59,21281642,Marco Franco,Great Oak,12,CA,4:13.85,Apr 03,/athlete/21281642/track-and-field
+60,23630848,Teal Greene,Pacifica Christian,11,CA,4:14.03,Apr 17,/athlete/23630848/track-and-field
+61,14650342,Alfonso Del Toro,Matilda Torres,12,CA,4:14.07,Apr 24,/athlete/14650342/track-and-field
+62,26746925,Erick De Leon,La Serna,12,CA,4:14.22,Mar 28,/athlete/26746925/track-and-field
+63,29129884,Aidan Sharp,Menlo-Atherton,12,CA,4:14.24,Apr 04,/athlete/29129884/track-and-field
+64,21914939,Cruz Espinoza,Canyon Crest Academy,12,CA,4:14.36,May 29,/athlete/21914939/track-and-field
+65,26352103,Jack Loomis,Point Loma,12,CA,4:14.43,May 07,/athlete/26352103/track-and-field
+66,13020523,Hunter Hannah,Matilda Torres,12,CA,4:14.45,Apr 11,/athlete/13020523/track-and-field
+67,21183741,Carson Ehman,Mira Costa,12,CA,4:14.58,Mar 28,/athlete/21183741/track-and-field
+68,23560427,Ryan Barris,Beckman,11,CA,4:14.71,Mar 28,/athlete/23560427/track-and-field
+69,21858054,Elias Melendrez,Valley View,12,CA,4:14.77,May 09,/athlete/21858054/track-and-field
+70,24615408,Thomas Hekl,Amador Valley,12,CA,4:14.78,Apr 18,/athlete/24615408/track-and-field
+71,16156408,Alijah Murillo,Branham,12,CA,4:14.81,Apr 25,/athlete/16156408/track-and-field
+72,26341928,Enzo Dik,Crescenta Valley,10,CA,4:14.82,May 09,/athlete/26341928/track-and-field
+73,21254165,Michael Ortega,Ontario,12,CA,4:14.95,Mar 14,/athlete/21254165/track-and-field
+74,21252034,Logan Carlson,Martin Luther King,12,CA,4:15.12,Mar 21,/athlete/21252034/track-and-field
+75,21221250,Brandon Fischer,Ventura,12,CA,4:15.12,Apr 24,/athlete/21221250/track-and-field
+76,17325874,Benjamin Fernandez,Matilda Torres,12,CA,4:15.12,Mar 13,/athlete/17325874/track-and-field
+77,21158918,Olly O'Connor,Viewpoint,12,CA,4:15.15,Apr 18,/athlete/21158918/track-and-field
+78,20718724,Ethan Feeser,San Luis Obispo,12,CA,4:15.17,Apr 25,/athlete/20718724/track-and-field
+79,29309887,Sterling White,Oaks Christian,9,CA,4:15.22,Mar 21,/athlete/29309887/track-and-field
+80,29305826,Liam Tassa,Mountain View,9,CA,4:15.23,Apr 11,/athlete/29305826/track-and-field
+81,21153672,Tyler White,Murrieta Valley,12,CA,4:15.40,Apr 18,/athlete/21153672/track-and-field
+82,21134098,Andres Lomeli,Kimball,12,CA,4:15.53,Apr 25,/athlete/21134098/track-and-field
+83,27212241,Ethan Kraska,San Francisco University,11,CA,4:15.54,May 29,/athlete/27212241/track-and-field
+84,21290819,Ethan Barok,Taft (William Howard),12,CA,4:15.54,Apr 11,/athlete/21290819/track-and-field
+85,23669531,Elijah Anderson,West Valley,11,CA,4:15.63,May 29,/athlete/23669531/track-and-field
+86,23631291,Cash Klinger,Valencia (Valencia),11,CA,4:15.66,May 15,/athlete/23631291/track-and-field
+87,23555031,Yohan Anderson,San Clemente,11,CA,4:15.94,May 01,/athlete/23555031/track-and-field
+88,20853569,Marcus Napoli,Nipomo,11,CA,4:15.96,May 08,/athlete/20853569/track-and-field
+89,33029805,Charles Abemayor,Harvard-Westlake,12,CA,4:16.01,Apr 17,/athlete/33029805/track-and-field
+90,25167132,Isaac Abbott,Jesuit,12,CA,4:16.01,May 02,/athlete/25167132/track-and-field
+91,21190726,Braden Himley,Ponderosa,12,CA,4:16.04,Mar 06,/athlete/21190726/track-and-field
+92,23622611,Ethan Kelly,Del Oro,11,CA,4:16.16,May 02,/athlete/23622611/track-and-field
+93,21337296,Luke Lopez,Eleanor Roosevelt,12,CA,4:16.44,Apr 17,/athlete/21337296/track-and-field
+94,21237163,Brian Arndt,Paso Robles,12,CA,4:16.48,Apr 18,/athlete/21237163/track-and-field
+95,21355396,Owen Dawson,Analy,12,CA,4:16.51,Apr 25,/athlete/21355396/track-and-field
+96,21105096,Hayes Terry,Beyer,12,CA,4:16.58,Apr 25,/athlete/21105096/track-and-field
+97,23632221,William Wurzbach,Vacaville,11,CA,4:16.69,May 23,/athlete/23632221/track-and-field
+98,21265892,Calvin Fear,Bella Vista,11,CA,4:16.73,Apr 25,/athlete/21265892/track-and-field
+99,23560425,Mason Nguyen,Beckman,12,CA,4:16.88,May 09,/athlete/23560425/track-and-field
+100,21151582,Aedan Clarke,Trabuco Hills,12,CA,4:16.92,Apr 03,/athlete/21151582/track-and-field

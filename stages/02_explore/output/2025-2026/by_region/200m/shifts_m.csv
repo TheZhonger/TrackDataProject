@@ -1,0 +1,5 @@
+group,n,median_s,mean_s,median_shift_s,mean_shift_s
+South,89927,25.15,25.444,-0.56,-0.55
+West,97554,25.88,26.123,0.17,0.129
+Midwest,110809,25.91,26.199,0.2,0.205
+Northeast,49492,25.99,26.28,0.28,0.286

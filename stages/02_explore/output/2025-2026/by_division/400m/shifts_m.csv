@@ -1,0 +1,10 @@
+group,n,median_s,mean_s,median_shift_s,mean_shift_s
+West South Central,22919,57.6,58.392,-0.98,-1.025
+South Atlantic,39249,57.63,58.47,-0.95,-0.947
+Middle Atlantic,23862,58.3,59.279,-0.28,-0.138
+Mountain,23129,58.66,59.434,0.08,0.016
+East South Central,12015,58.8,59.735,0.22,0.318
+East North Central,46273,58.93,59.779,0.35,0.362
+New England,11938,59.005,59.916,0.425,0.499
+West North Central,31981,59.04,59.871,0.46,0.454
+Pacific,46207,59.17,59.904,0.59,0.487

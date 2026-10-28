@@ -1,0 +1,43 @@
+{
+  "project_name": "Track Times Research",
+  "description": "Cross-event rarity scoring of high school track performances using Generalized Pareto tail fits on athletic.net scrapes",
+  "generated": "2026-10-06",
+  "total_files": 656,
+  "total_files_note": "Excludes the in-root virtualenv (Lib/, Scripts/, Include/, share/), __pycache__, .DS_Store and lock files; 500 of the 656 are cached athlete HTML pages in data/html/",
+  "file_types": {
+    "html": 500,
+    "csv": 97,
+    "png": 26,
+    "py": 21,
+    "md": 5,
+    "json": 4,
+    "pdf": 1,
+    "config": 2
+  },
+  "languages": ["python"],
+  "has_tests": false,
+  "has_ci": false,
+  "has_version_control": false,
+  "has_dependency_manifest": false,
+  "entry_points": [
+    "scrapeAll.py",
+    "individualScrape.py",
+    "gpd testing/gpd_tail.py",
+    "gpd testing/threshold_select.py",
+    "pooled2026/run_all.py"
+  ],
+  "docs": ["CLAUDE.md", "SCRAPING.md", "pooled2026/README.md", "README.md"],
+  "data_layouts": [
+    "data/<year>/<ST>/<sex>/<event>.csv (current)",
+    "data/<ST>/<sex>/<event>.csv (legacy)"
+  ],
+  "top_issues": [
+    "Plaintext password fallback in individualScrape.py:46-47",
+    "SCRAPING.md section 0 data-integrity warning appears resolved but is still marked live",
+    "CLAUDE.md lists gpd_tail.py/threshold_select.py at root; they are in 'gpd testing/'",
+    "threshold_select.py lacks the scale-relative agreement and nothing-rejected guards CLAUDE.md describes",
+    "plot_events.py, plotByDate.py, plotRandom.py read output*.csv files that no longer exist",
+    "Windows virtualenv mixed into the project root; no requirements.txt",
+    "Not a git repo; .gitignore is '*'"
+  ]
+}

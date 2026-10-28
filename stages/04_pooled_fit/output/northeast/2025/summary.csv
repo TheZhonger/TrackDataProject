@@ -1,0 +1,11 @@
+event,sex,dataset,n_states,n_athletes,n_multi_season,bootstrap,n_before_fence,n,rp_sensitivity,u_sec,N_u,zeta,xi,xi_ci_lo,xi_ci_hi,sigma,implied_wall_s,fastest_s,wall_margin_s,wall_ci_lo,wall_unbounded_frac,wall_ci_hi,rp_of_fastest,rp_identified,threshold_source,converged,plateau,under_collected
+100m,m,2025,9,26758,0,rows,27051,26758,1.0109,11.64,3147,0.11761,-0.2952,-0.3176,-0.2709,0.415,10.234,10.34,0.106,10.153,0.0,10.3,54015,False,shape plateau FALLBACK -- nothing converged,False,sliding xi -- no plateau,-
+100m,f,2025,9,23394,0,rows,23510,23394,1.005,13.689,4142,0.177054,-0.2601,-0.2942,-0.2429,0.6636,11.138,11.25,0.112,11.007,0.0,11.381,948177,False,mixture MLE (other methods unusable),True,sliding xi -- no plateau,-
+200m,m,2025,9,23554,0,rows,23790,23554,1.01,22.36,384,0.016303,-0.2496,-0.3291,-0.1838,0.4616,20.51,20.93,0.42,20.053,0.0,20.868,23403,False,ForwardStop,True,sliding xi -- no plateau,-
+200m,f,2025,9,21806,0,rows,21924,21806,1.0054,25.79,356,0.016326,-0.1451,-0.2468,-0.0655,0.658,21.257,23.05,1.793,16.248,0.0,22.801,36468,False,ForwardStop,True,sliding xi -- no plateau,-
+400m,m,2025,9,17255,0,rows,17407,17255,1.0088,52.62,1867,0.108201,-0.304,-0.3611,-0.2819,2.0526,45.867,46.08,0.213,45.548,0.0,46.654,802882,False,shape plateau FALLBACK -- nothing converged,False,sliding xi -- no plateau,-
+400m,f,2025,9,13264,0,rows,13350,13264,1.0065,59.046,371,0.02797,-0.1719,-0.3121,-0.1075,1.7717,48.739,51.14,2.401,43.21,0.0,52.586,171599,False,ForwardStop,True,sliding xi -- no plateau,-
+800m,m,2025,9,15701,0,rows,15750,15701,1.0031,120.189,799,0.050888,-0.2547,-0.3076,-0.2043,3.4347,106.705,109.24,2.535,104.297,0.0,108.389,13892,False,ForwardStop,True,sliding xi -- no plateau,-
+800m,f,2025,9,13210,0,rows,13244,13210,1.0026,142.721,673,0.050946,-0.184,-0.2633,-0.1308,5.3771,113.505,120.11,6.605,103.441,0.0,121.583,63309,False,ForwardStop,True,sliding xi -- no plateau,-
+1600m,m,2025,9,14500,0,rows,14536,14500,1.0025,284.001,2235,0.154138,-0.3363,-0.4176,-0.3192,14.6334,240.49,241.54,1.05,239.189,0.0,246.709,417645,False,shape plateau FALLBACK -- nothing converged,False,sliding xi -- no plateau,-
+1500m,f,2025,9,10019,0,rows,10048,10019,1.0029,282.806,166,0.016569,-0.1009,-0.2565,0.0008,6.5526,217.843,254.948,37.105,-inf,0.045,253.039,15565,False,ForwardStop,True,sliding xi -- no plateau,-

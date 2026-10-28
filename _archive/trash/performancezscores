@@ -1,0 +1,241 @@
+"""
+Compare athlete performances across event groups using z-scores.
+
+Core idea
+---------
+A z-score, (x - mu) / sigma, only carries its familiar meaning ("z = 2 means
+97.7th percentile") when the underlying data is normal. Running times are
+right-skewed and fit a lognormal better, so we compute z on log(x), where the
+data IS normal. This preserves the percentile interpretation exactly.
+
+Two z-scores are produced for every performance:
+
+  z_model      parametric, from a lognormal fit to that event group
+  z_empirical  model-free, from the performance's rank within its group
+
+They should agree closely. Where they don't, the parametric model is
+misfitting that event and z_empirical is the safer number to use.
+
+Direction
+---------
+Running: lower is better. Throws/jumps: higher is better. Every event needs
+a direction flag, and z is signed so POSITIVE ALWAYS MEANS BETTER.
+"""
+
+import numpy as np
+import pandas as pd
+from scipy.stats import norm, rankdata, normaltest
+
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+CSV_PATH = "times.csv"
+MIN_GROUP_SIZE = 30       # below this, estimates are too noisy to trust
+
+# True  -> a smaller value is a better performance (running)
+# False -> a larger value is better (throws, jumps)
+LOWER_IS_BETTER = {
+    "800m": True,
+    "1600m": True,
+    "3200m": True,
+    "100m": True,
+    "Shot Put": False,
+    "Discus": False,
+    "High Jump": False,
+    "Long Jump": False,
+}
+
+# Grouping key. Pool only performances that are genuinely comparable --
+# at minimum event and gender. Adding season/year is usually wise too.
+GROUP_COLS = ["event", "gender"]
+
+
+# ---------------------------------------------------------------------------
+# Parsing
+# ---------------------------------------------------------------------------
+
+def time_to_seconds(value):
+    """Parse 'M:SS.hh' or 'SS.hh' into float seconds. NaN on failure."""
+    if pd.isna(value):
+        return np.nan
+    s = str(value).strip()
+    if not s:
+        return np.nan
+    try:
+        if ":" in s:
+            minutes, seconds = s.split(":")
+            return int(minutes) * 60 + float(seconds)
+        return float(s)
+    except (ValueError, TypeError):
+        return np.nan
+
+
+# ---------------------------------------------------------------------------
+# The two z-score methods
+# ---------------------------------------------------------------------------
+
+def fit_lognormal(values):
+    """
+    Fit a lognormal by fitting a normal to log(values).
+
+    A lognormal X is defined as one where log(X) is normal, so the maximum
+    likelihood estimates are simply the mean and std of the logged data --
+    no optimizer needed. Returns (mu_log, sigma_log), both on the LOG scale.
+    """
+    log_values = np.log(values)
+    return log_values.mean(), log_values.std(ddof=1)
+
+
+def z_from_lognormal(values, mu_log, sigma_log, lower_is_better):
+    """
+    Parametric z-score on the log scale.
+
+    (log(x) - mu) / sigma is a standard normal deviate, because log(x) is
+    normal by construction. The sign flip makes positive mean 'better'
+    regardless of event direction.
+    """
+    z = (np.log(values) - mu_log) / sigma_log
+    return -z if lower_is_better else z
+
+
+def z_from_ranks(values, lower_is_better):
+    """
+    Model-free z-score via rank -> percentile -> inverse normal CDF.
+
+    Steps:
+      1. Orient values so larger = better.
+      2. Rank them. Rank r out of n sits at percentile (r - 0.5) / n.
+         The 0.5 offset keeps the best and worst performances off the
+         0 and 1 boundaries, where norm.ppf would return +/- infinity.
+      3. Feed the percentile through norm.ppf, the inverse normal CDF.
+         This asks: "what z-score would put a normal variable at this
+         percentile?" The output is normally distributed by construction,
+         whatever the input distribution looked like.
+
+    Ceiling: with n performances, the maximum possible z is
+    norm.ppf(1 - 0.5/n) -- about 3.09 at n=1000. Truly exceptional
+    performances get compressed against this ceiling.
+    """
+    goodness = -values if lower_is_better else values
+    ranks = rankdata(goodness, method="average")  # ties share a rank
+    percentiles = (ranks - 0.5) / len(ranks)
+    return norm.ppf(percentiles)
+
+
+# ---------------------------------------------------------------------------
+# Per-group processing
+# ---------------------------------------------------------------------------
+
+def score_group(group, event_name):
+    """Attach both z-scores to one event group. Returns the group or None."""
+    values = group["value"].to_numpy()
+
+    if len(values) < MIN_GROUP_SIZE:
+        print(f"  SKIP {event_name}: only {len(values)} performances")
+        return None
+    if (values <= 0).any():
+        print(f"  SKIP {event_name}: non-positive values (log undefined)")
+        return None
+
+    lower_better = LOWER_IS_BETTER.get(event_name)
+    if lower_better is None:
+        print(f"  SKIP {event_name}: no direction set in LOWER_IS_BETTER")
+        return None
+
+    mu_log, sigma_log = fit_lognormal(values)
+
+    out = group.copy()
+    out["z_model"] = z_from_lognormal(values, mu_log, sigma_log, lower_better)
+    out["z_empirical"] = z_from_ranks(values, lower_better)
+    out["percentile"] = norm.cdf(out["z_empirical"]) * 100
+
+    # Diagnostic: is log(x) actually normal? p < 0.05 rejects normality.
+    # With large n this rejects on trivial deviations, so treat the
+    # agreement between the two z-scores as the more practical check.
+    log_values = np.log(values)
+    _, p_normal = normaltest(log_values)
+    agreement = np.corrcoef(out["z_model"], out["z_empirical"])[0, 1]
+
+    print(f"  {event_name}: n={len(values)}  "
+          f"mu_log={mu_log:.4f}  sigma_log={sigma_log:.4f}  "
+          f"normality p={p_normal:.4f}  agreement r={agreement:.4f}")
+
+    if agreement < 0.99:
+        print(f"    WARNING: lognormal fits {event_name} poorly. "
+              f"Prefer z_empirical here.")
+
+    return out
+
+
+def score_all(df):
+    """Compute z-scores within every event group."""
+    print("Fitting event groups:")
+    scored = []
+    for keys, group in df.groupby(GROUP_COLS, dropna=True):
+        event_name = keys[0] if isinstance(keys, tuple) else keys
+        result = score_group(group, event_name)
+        if result is not None:
+            scored.append(result)
+
+    if not scored:
+        raise RuntimeError("No group met the requirements.")
+    return pd.concat(scored, ignore_index=True)
+
+
+# ---------------------------------------------------------------------------
+# Athlete-level rollup
+# ---------------------------------------------------------------------------
+
+def athlete_summary(scored, z_col="z_empirical"):
+    """
+    Average each athlete's z across their events.
+
+    Averaging z-scores treats every event as equally informative. That is
+    reasonable only if the fields are comparably deep -- see the caveat in
+    the notes below.
+    """
+    summary = (
+        scored.groupby("name")
+        .agg(
+            events=("event", "nunique"),
+            performances=(z_col, "size"),
+            mean_z=(z_col, "mean"),
+            best_z=(z_col, "max"),
+        )
+        .sort_values("mean_z", ascending=False)
+    )
+    return summary
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main():
+    df = pd.read_csv(CSV_PATH)
+
+    # Adapt this block to your actual columns.
+    df["value"] = df["time"].map(time_to_seconds)
+    n_bad = df["value"].isna().sum()
+    if n_bad:
+        print(f"Dropped {n_bad} unparseable rows\n")
+    df = df.dropna(subset=["value"])
+
+    scored = score_all(df)
+
+    print("\nTop performances across all events:")
+    cols = ["name", "event", "value", "z_model", "z_empirical", "percentile"]
+    cols = [c for c in cols if c in scored.columns]
+    print(scored.nlargest(20, "z_empirical")[cols].to_string(index=False))
+
+    print("\nTop athletes by mean z across events:")
+    print(athlete_summary(scored).head(20).to_string())
+
+    scored.to_csv("scored_performances.csv", index=False)
+    print("\nWrote scored_performances.csv")
+
+
+if __name__ == "__main__":
+    main()
